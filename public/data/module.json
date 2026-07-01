@@ -1,0 +1,41 @@
+{
+  "id": "mod-data-analyst",
+  "slug": "module-data-analyst",
+  "title": "数据分析师训练",
+  "subtitle": "面向数据分析岗位的Excel、SQL、Python、pandas、数据清洗、可视化、指标体系、业务分析、项目作品集与面试训练",
+  "description": "面向想学习数据分析、准备数据分析师岗位、做商业分析、运营分析、产品分析、报表分析、Python数据处理和可视化的人，提供从Excel/SQL/Python/pandas/可视化/指标体系/业务分析/项目作品集到面试训练的完整静态学习模块。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "数据分析",
+    "SQL",
+    "Python",
+    "pandas",
+    "Excel",
+    "可视化",
+    "业务分析",
+    "面试"
+  ],
+  "estimatedHours": 160,
+  "difficulty": "easy",
+  "updatedAt": "2026-07-01T12:00:00.000Z",
+  "coverEmoji": "📊",
+  "repoUrl": "https://github.com/openskill-galaxy/module-data-analyst",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 190,
+    "knowledgePoints": 809,
+    "questions": 3008,
+    "cases": 260,
+    "exams": 85,
+    "routes": 35,
+    "glossary": 362,
+    "faqs": 213,
+    "tags": 1973
+  }
+}
