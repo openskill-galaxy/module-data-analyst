@@ -2952,1332 +2952,1142 @@
   },
   {
     "id": "da-lesson-121",
-    "courseId": "da-course-01",
-    "order": 11,
-    "title": "补充课程121",
-    "slug": "lesson-121",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-09",
+    "order": 10,
+    "title": "统计学与常用分析方法拓展121",
+    "slug": "统计学与常用分析方法-ext-121",
+    "summary": "统计学与常用分析方法拓展",
+    "content": "#统计学与常用分析方法拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-122",
-    "courseId": "da-course-02",
-    "order": 10,
-    "title": "补充课程122",
-    "slug": "lesson-122",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-10",
+    "order": 9,
+    "title": "指标体系与业务分析拓展122",
+    "slug": "指标体系与业务分析-ext-122",
+    "summary": "指标体系与业务分析拓展",
+    "content": "#指标体系与业务分析拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-123",
-    "courseId": "da-course-03",
+    "courseId": "da-course-11",
     "order": 9,
-    "title": "补充课程123",
-    "slug": "lesson-123",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "title": "用户分析、运营分析与产品分析拓展123",
+    "slug": "用户分析运营分析与产品分析-ext-123",
+    "summary": "用户分析、运营分析与产品分析拓展",
+    "content": "#用户分析、运营分析与产品分析拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-124",
-    "courseId": "da-course-04",
-    "order": 11,
-    "title": "补充课程124",
-    "slug": "lesson-124",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-12",
+    "order": 8,
+    "title": "A/B 测试与实验分析拓展124",
+    "slug": "AB测试与实验分析-ext-124",
+    "summary": "A/B 测试与实验分析拓展",
+    "content": "#A/B 测试与实验分析拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-125",
-    "courseId": "da-course-05",
+    "courseId": "da-course-13",
     "order": 8,
-    "title": "补充课程125",
-    "slug": "lesson-125",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "title": "数据分析项目实战拓展125",
+    "slug": "数据分析项目实战-ext-125",
+    "summary": "数据分析项目实战拓展",
+    "content": "#数据分析项目实战拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-126",
-    "courseId": "da-course-06",
-    "order": 11,
-    "title": "补充课程126",
-    "slug": "lesson-126",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-14",
+    "order": 9,
+    "title": "数据分析师简历、作品集与面试拓展126",
+    "slug": "数据分析师简历作品集与面试-ext-126",
+    "summary": "数据分析师简历、作品集与面试拓展",
+    "content": "#数据分析师简历、作品集与面试拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-127",
-    "courseId": "da-course-07",
-    "order": 10,
-    "title": "补充课程127",
-    "slug": "lesson-127",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-01",
+    "order": 11,
+    "title": "数据分析师岗位入门拓展127",
+    "slug": "数据分析师岗位入门-ext-127",
+    "summary": "数据分析师岗位入门拓展",
+    "content": "#数据分析师岗位入门拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-128",
-    "courseId": "da-course-08",
-    "order": 11,
-    "title": "补充课程128",
-    "slug": "lesson-128",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-02",
+    "order": 10,
+    "title": "数据分析思维与业务问题拆解拓展128",
+    "slug": "数据分析思维与业务问题拆解-ext-128",
+    "summary": "数据分析思维与业务问题拆解拓展",
+    "content": "#数据分析思维与业务问题拆解拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-129",
-    "courseId": "da-course-09",
-    "order": 10,
-    "title": "补充课程129",
-    "slug": "lesson-129",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-03",
+    "order": 9,
+    "title": "Excel 数据分析基础拓展129",
+    "slug": "Excel数据分析基础-ext-129",
+    "summary": "Excel 数据分析基础拓展",
+    "content": "#Excel 数据分析基础拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-130",
-    "courseId": "da-course-10",
-    "order": 9,
-    "title": "补充课程130",
-    "slug": "lesson-130",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-04",
+    "order": 11,
+    "title": "SQL 查询与数据提取拓展130",
+    "slug": "SQL查询与数据提取-ext-130",
+    "summary": "SQL 查询与数据提取拓展",
+    "content": "#SQL 查询与数据提取拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-131",
-    "courseId": "da-course-11",
-    "order": 9,
-    "title": "补充课程131",
-    "slug": "lesson-131",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-05",
+    "order": 8,
+    "title": "Python 数据分析基础拓展131",
+    "slug": "Python数据分析基础-ext-131",
+    "summary": "Python 数据分析基础拓展",
+    "content": "#Python 数据分析基础拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-132",
-    "courseId": "da-course-12",
-    "order": 8,
-    "title": "补充课程132",
-    "slug": "lesson-132",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-06",
+    "order": 11,
+    "title": "pandas 数据处理拓展132",
+    "slug": "pandas数据处理-ext-132",
+    "summary": "pandas 数据处理拓展",
+    "content": "#pandas 数据处理拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-133",
-    "courseId": "da-course-13",
-    "order": 8,
-    "title": "补充课程133",
-    "slug": "lesson-133",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-07",
+    "order": 10,
+    "title": "数据清洗与缺失值处理拓展133",
+    "slug": "数据清洗与缺失值处理-ext-133",
+    "summary": "数据清洗与缺失值处理拓展",
+    "content": "#数据清洗与缺失值处理拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-134",
-    "courseId": "da-course-14",
-    "order": 9,
-    "title": "补充课程134",
-    "slug": "lesson-134",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-08",
+    "order": 11,
+    "title": "数据可视化基础拓展134",
+    "slug": "数据可视化基础-ext-134",
+    "summary": "数据可视化基础拓展",
+    "content": "#数据可视化基础拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-135",
-    "courseId": "da-course-01",
-    "order": 12,
-    "title": "补充课程135",
-    "slug": "lesson-135",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-09",
+    "order": 11,
+    "title": "统计学与常用分析方法拓展135",
+    "slug": "统计学与常用分析方法-ext-135",
+    "summary": "统计学与常用分析方法拓展",
+    "content": "#统计学与常用分析方法拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-136",
-    "courseId": "da-course-02",
-    "order": 11,
-    "title": "补充课程136",
-    "slug": "lesson-136",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-10",
+    "order": 10,
+    "title": "指标体系与业务分析拓展136",
+    "slug": "指标体系与业务分析-ext-136",
+    "summary": "指标体系与业务分析拓展",
+    "content": "#指标体系与业务分析拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-137",
-    "courseId": "da-course-03",
+    "courseId": "da-course-11",
     "order": 10,
-    "title": "补充课程137",
-    "slug": "lesson-137",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "title": "用户分析、运营分析与产品分析拓展137",
+    "slug": "用户分析运营分析与产品分析-ext-137",
+    "summary": "用户分析、运营分析与产品分析拓展",
+    "content": "#用户分析、运营分析与产品分析拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-138",
-    "courseId": "da-course-04",
-    "order": 12,
-    "title": "补充课程138",
-    "slug": "lesson-138",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-12",
+    "order": 9,
+    "title": "A/B 测试与实验分析拓展138",
+    "slug": "AB测试与实验分析-ext-138",
+    "summary": "A/B 测试与实验分析拓展",
+    "content": "#A/B 测试与实验分析拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-139",
-    "courseId": "da-course-05",
+    "courseId": "da-course-13",
     "order": 9,
-    "title": "补充课程139",
-    "slug": "lesson-139",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "title": "数据分析项目实战拓展139",
+    "slug": "数据分析项目实战-ext-139",
+    "summary": "数据分析项目实战拓展",
+    "content": "#数据分析项目实战拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-140",
-    "courseId": "da-course-06",
-    "order": 12,
-    "title": "补充课程140",
-    "slug": "lesson-140",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-14",
+    "order": 10,
+    "title": "数据分析师简历、作品集与面试拓展140",
+    "slug": "数据分析师简历作品集与面试-ext-140",
+    "summary": "数据分析师简历、作品集与面试拓展",
+    "content": "#数据分析师简历、作品集与面试拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-141",
-    "courseId": "da-course-07",
-    "order": 11,
-    "title": "补充课程141",
-    "slug": "lesson-141",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-01",
+    "order": 12,
+    "title": "数据分析师岗位入门拓展141",
+    "slug": "数据分析师岗位入门-ext-141",
+    "summary": "数据分析师岗位入门拓展",
+    "content": "#数据分析师岗位入门拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-142",
-    "courseId": "da-course-08",
-    "order": 12,
-    "title": "补充课程142",
-    "slug": "lesson-142",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-02",
+    "order": 11,
+    "title": "数据分析思维与业务问题拆解拓展142",
+    "slug": "数据分析思维与业务问题拆解-ext-142",
+    "summary": "数据分析思维与业务问题拆解拓展",
+    "content": "#数据分析思维与业务问题拆解拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-143",
-    "courseId": "da-course-09",
-    "order": 11,
-    "title": "补充课程143",
-    "slug": "lesson-143",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-03",
+    "order": 10,
+    "title": "Excel 数据分析基础拓展143",
+    "slug": "Excel数据分析基础-ext-143",
+    "summary": "Excel 数据分析基础拓展",
+    "content": "#Excel 数据分析基础拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-144",
-    "courseId": "da-course-10",
-    "order": 10,
-    "title": "补充课程144",
-    "slug": "lesson-144",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-04",
+    "order": 12,
+    "title": "SQL 查询与数据提取拓展144",
+    "slug": "SQL查询与数据提取-ext-144",
+    "summary": "SQL 查询与数据提取拓展",
+    "content": "#SQL 查询与数据提取拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-145",
-    "courseId": "da-course-11",
-    "order": 10,
-    "title": "补充课程145",
-    "slug": "lesson-145",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-05",
+    "order": 9,
+    "title": "Python 数据分析基础拓展145",
+    "slug": "Python数据分析基础-ext-145",
+    "summary": "Python 数据分析基础拓展",
+    "content": "#Python 数据分析基础拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-146",
-    "courseId": "da-course-12",
-    "order": 9,
-    "title": "补充课程146",
-    "slug": "lesson-146",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-06",
+    "order": 12,
+    "title": "pandas 数据处理拓展146",
+    "slug": "pandas数据处理-ext-146",
+    "summary": "pandas 数据处理拓展",
+    "content": "#pandas 数据处理拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-147",
-    "courseId": "da-course-13",
-    "order": 9,
-    "title": "补充课程147",
-    "slug": "lesson-147",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-07",
+    "order": 11,
+    "title": "数据清洗与缺失值处理拓展147",
+    "slug": "数据清洗与缺失值处理-ext-147",
+    "summary": "数据清洗与缺失值处理拓展",
+    "content": "#数据清洗与缺失值处理拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-148",
-    "courseId": "da-course-14",
-    "order": 10,
-    "title": "补充课程148",
-    "slug": "lesson-148",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-08",
+    "order": 12,
+    "title": "数据可视化基础拓展148",
+    "slug": "数据可视化基础-ext-148",
+    "summary": "数据可视化基础拓展",
+    "content": "#数据可视化基础拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-149",
-    "courseId": "da-course-01",
-    "order": 13,
-    "title": "补充课程149",
-    "slug": "lesson-149",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-09",
+    "order": 12,
+    "title": "统计学与常用分析方法拓展149",
+    "slug": "统计学与常用分析方法-ext-149",
+    "summary": "统计学与常用分析方法拓展",
+    "content": "#统计学与常用分析方法拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-150",
-    "courseId": "da-course-02",
-    "order": 12,
-    "title": "补充课程150",
-    "slug": "lesson-150",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-10",
+    "order": 11,
+    "title": "指标体系与业务分析拓展150",
+    "slug": "指标体系与业务分析-ext-150",
+    "summary": "指标体系与业务分析拓展",
+    "content": "#指标体系与业务分析拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-151",
-    "courseId": "da-course-03",
+    "courseId": "da-course-11",
     "order": 11,
-    "title": "补充课程151",
-    "slug": "lesson-151",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "title": "用户分析、运营分析与产品分析拓展151",
+    "slug": "用户分析运营分析与产品分析-ext-151",
+    "summary": "用户分析、运营分析与产品分析拓展",
+    "content": "#用户分析、运营分析与产品分析拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-152",
-    "courseId": "da-course-04",
-    "order": 13,
-    "title": "补充课程152",
-    "slug": "lesson-152",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-12",
+    "order": 10,
+    "title": "A/B 测试与实验分析拓展152",
+    "slug": "AB测试与实验分析-ext-152",
+    "summary": "A/B 测试与实验分析拓展",
+    "content": "#A/B 测试与实验分析拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-153",
-    "courseId": "da-course-05",
+    "courseId": "da-course-13",
     "order": 10,
-    "title": "补充课程153",
-    "slug": "lesson-153",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "title": "数据分析项目实战拓展153",
+    "slug": "数据分析项目实战-ext-153",
+    "summary": "数据分析项目实战拓展",
+    "content": "#数据分析项目实战拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-154",
-    "courseId": "da-course-06",
-    "order": 13,
-    "title": "补充课程154",
-    "slug": "lesson-154",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-14",
+    "order": 11,
+    "title": "数据分析师简历、作品集与面试拓展154",
+    "slug": "数据分析师简历作品集与面试-ext-154",
+    "summary": "数据分析师简历、作品集与面试拓展",
+    "content": "#数据分析师简历、作品集与面试拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-155",
-    "courseId": "da-course-07",
-    "order": 12,
-    "title": "补充课程155",
-    "slug": "lesson-155",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-01",
+    "order": 13,
+    "title": "数据分析师岗位入门拓展155",
+    "slug": "数据分析师岗位入门-ext-155",
+    "summary": "数据分析师岗位入门拓展",
+    "content": "#数据分析师岗位入门拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-156",
-    "courseId": "da-course-08",
-    "order": 13,
-    "title": "补充课程156",
-    "slug": "lesson-156",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-02",
+    "order": 12,
+    "title": "数据分析思维与业务问题拆解拓展156",
+    "slug": "数据分析思维与业务问题拆解-ext-156",
+    "summary": "数据分析思维与业务问题拆解拓展",
+    "content": "#数据分析思维与业务问题拆解拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-157",
-    "courseId": "da-course-09",
-    "order": 12,
-    "title": "补充课程157",
-    "slug": "lesson-157",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-03",
+    "order": 11,
+    "title": "Excel 数据分析基础拓展157",
+    "slug": "Excel数据分析基础-ext-157",
+    "summary": "Excel 数据分析基础拓展",
+    "content": "#Excel 数据分析基础拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-158",
-    "courseId": "da-course-10",
-    "order": 11,
-    "title": "补充课程158",
-    "slug": "lesson-158",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-04",
+    "order": 13,
+    "title": "SQL 查询与数据提取拓展158",
+    "slug": "SQL查询与数据提取-ext-158",
+    "summary": "SQL 查询与数据提取拓展",
+    "content": "#SQL 查询与数据提取拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-159",
-    "courseId": "da-course-11",
-    "order": 11,
-    "title": "补充课程159",
-    "slug": "lesson-159",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-05",
+    "order": 10,
+    "title": "Python 数据分析基础拓展159",
+    "slug": "Python数据分析基础-ext-159",
+    "summary": "Python 数据分析基础拓展",
+    "content": "#Python 数据分析基础拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-160",
-    "courseId": "da-course-12",
-    "order": 10,
-    "title": "补充课程160",
-    "slug": "lesson-160",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-06",
+    "order": 13,
+    "title": "pandas 数据处理拓展160",
+    "slug": "pandas数据处理-ext-160",
+    "summary": "pandas 数据处理拓展",
+    "content": "#pandas 数据处理拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-161",
-    "courseId": "da-course-13",
-    "order": 10,
-    "title": "补充课程161",
-    "slug": "lesson-161",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-07",
+    "order": 12,
+    "title": "数据清洗与缺失值处理拓展161",
+    "slug": "数据清洗与缺失值处理-ext-161",
+    "summary": "数据清洗与缺失值处理拓展",
+    "content": "#数据清洗与缺失值处理拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-162",
-    "courseId": "da-course-14",
-    "order": 11,
-    "title": "补充课程162",
-    "slug": "lesson-162",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-08",
+    "order": 13,
+    "title": "数据可视化基础拓展162",
+    "slug": "数据可视化基础-ext-162",
+    "summary": "数据可视化基础拓展",
+    "content": "#数据可视化基础拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-163",
-    "courseId": "da-course-01",
-    "order": 14,
-    "title": "补充课程163",
-    "slug": "lesson-163",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-09",
+    "order": 13,
+    "title": "统计学与常用分析方法拓展163",
+    "slug": "统计学与常用分析方法-ext-163",
+    "summary": "统计学与常用分析方法拓展",
+    "content": "#统计学与常用分析方法拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-164",
-    "courseId": "da-course-02",
-    "order": 13,
-    "title": "补充课程164",
-    "slug": "lesson-164",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-10",
+    "order": 12,
+    "title": "指标体系与业务分析拓展164",
+    "slug": "指标体系与业务分析-ext-164",
+    "summary": "指标体系与业务分析拓展",
+    "content": "#指标体系与业务分析拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-165",
-    "courseId": "da-course-03",
+    "courseId": "da-course-11",
     "order": 12,
-    "title": "补充课程165",
-    "slug": "lesson-165",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "title": "用户分析、运营分析与产品分析拓展165",
+    "slug": "用户分析运营分析与产品分析-ext-165",
+    "summary": "用户分析、运营分析与产品分析拓展",
+    "content": "#用户分析、运营分析与产品分析拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-166",
-    "courseId": "da-course-04",
-    "order": 14,
-    "title": "补充课程166",
-    "slug": "lesson-166",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-12",
+    "order": 11,
+    "title": "A/B 测试与实验分析拓展166",
+    "slug": "AB测试与实验分析-ext-166",
+    "summary": "A/B 测试与实验分析拓展",
+    "content": "#A/B 测试与实验分析拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-167",
-    "courseId": "da-course-05",
+    "courseId": "da-course-13",
     "order": 11,
-    "title": "补充课程167",
-    "slug": "lesson-167",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "title": "数据分析项目实战拓展167",
+    "slug": "数据分析项目实战-ext-167",
+    "summary": "数据分析项目实战拓展",
+    "content": "#数据分析项目实战拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-168",
-    "courseId": "da-course-06",
-    "order": 14,
-    "title": "补充课程168",
-    "slug": "lesson-168",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-14",
+    "order": 12,
+    "title": "数据分析师简历、作品集与面试拓展168",
+    "slug": "数据分析师简历作品集与面试-ext-168",
+    "summary": "数据分析师简历、作品集与面试拓展",
+    "content": "#数据分析师简历、作品集与面试拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-169",
-    "courseId": "da-course-07",
-    "order": 13,
-    "title": "补充课程169",
-    "slug": "lesson-169",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-01",
+    "order": 14,
+    "title": "数据分析师岗位入门拓展169",
+    "slug": "数据分析师岗位入门-ext-169",
+    "summary": "数据分析师岗位入门拓展",
+    "content": "#数据分析师岗位入门拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-170",
-    "courseId": "da-course-08",
-    "order": 14,
-    "title": "补充课程170",
-    "slug": "lesson-170",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-02",
+    "order": 13,
+    "title": "数据分析思维与业务问题拆解拓展170",
+    "slug": "数据分析思维与业务问题拆解-ext-170",
+    "summary": "数据分析思维与业务问题拆解拓展",
+    "content": "#数据分析思维与业务问题拆解拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-171",
-    "courseId": "da-course-09",
-    "order": 13,
-    "title": "补充课程171",
-    "slug": "lesson-171",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-03",
+    "order": 12,
+    "title": "Excel 数据分析基础拓展171",
+    "slug": "Excel数据分析基础-ext-171",
+    "summary": "Excel 数据分析基础拓展",
+    "content": "#Excel 数据分析基础拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-172",
-    "courseId": "da-course-10",
-    "order": 12,
-    "title": "补充课程172",
-    "slug": "lesson-172",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-04",
+    "order": 14,
+    "title": "SQL 查询与数据提取拓展172",
+    "slug": "SQL查询与数据提取-ext-172",
+    "summary": "SQL 查询与数据提取拓展",
+    "content": "#SQL 查询与数据提取拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-173",
-    "courseId": "da-course-11",
-    "order": 12,
-    "title": "补充课程173",
-    "slug": "lesson-173",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-05",
+    "order": 11,
+    "title": "Python 数据分析基础拓展173",
+    "slug": "Python数据分析基础-ext-173",
+    "summary": "Python 数据分析基础拓展",
+    "content": "#Python 数据分析基础拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-174",
-    "courseId": "da-course-12",
-    "order": 11,
-    "title": "补充课程174",
-    "slug": "lesson-174",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-06",
+    "order": 14,
+    "title": "pandas 数据处理拓展174",
+    "slug": "pandas数据处理-ext-174",
+    "summary": "pandas 数据处理拓展",
+    "content": "#pandas 数据处理拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-175",
-    "courseId": "da-course-13",
-    "order": 11,
-    "title": "补充课程175",
-    "slug": "lesson-175",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-07",
+    "order": 13,
+    "title": "数据清洗与缺失值处理拓展175",
+    "slug": "数据清洗与缺失值处理-ext-175",
+    "summary": "数据清洗与缺失值处理拓展",
+    "content": "#数据清洗与缺失值处理拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-176",
-    "courseId": "da-course-14",
-    "order": 12,
-    "title": "补充课程176",
-    "slug": "lesson-176",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-08",
+    "order": 14,
+    "title": "数据可视化基础拓展176",
+    "slug": "数据可视化基础-ext-176",
+    "summary": "数据可视化基础拓展",
+    "content": "#数据可视化基础拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-177",
-    "courseId": "da-course-01",
-    "order": 15,
-    "title": "补充课程177",
-    "slug": "lesson-177",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-09",
+    "order": 14,
+    "title": "统计学与常用分析方法拓展177",
+    "slug": "统计学与常用分析方法-ext-177",
+    "summary": "统计学与常用分析方法拓展",
+    "content": "#统计学与常用分析方法拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-178",
-    "courseId": "da-course-02",
-    "order": 14,
-    "title": "补充课程178",
-    "slug": "lesson-178",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "courseId": "da-course-10",
+    "order": 13,
+    "title": "指标体系与业务分析拓展178",
+    "slug": "指标体系与业务分析-ext-178",
+    "summary": "指标体系与业务分析拓展",
+    "content": "#指标体系与业务分析拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-179",
-    "courseId": "da-course-03",
+    "courseId": "da-course-11",
     "order": 13,
-    "title": "补充课程179",
-    "slug": "lesson-179",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "title": "用户分析、运营分析与产品分析拓展179",
+    "slug": "用户分析运营分析与产品分析-ext-179",
+    "summary": "用户分析、运营分析与产品分析拓展",
+    "content": "#用户分析、运营分析与产品分析拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
     "id": "da-lesson-180",
-    "courseId": "da-course-04",
-    "order": 15,
-    "title": "补充课程180",
-    "slug": "lesson-180",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "数据分析"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "da-lesson-181",
-    "courseId": "da-course-05",
-    "order": 12,
-    "title": "补充课程181",
-    "slug": "lesson-181",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "数据分析"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "da-lesson-182",
-    "courseId": "da-course-06",
-    "order": 15,
-    "title": "补充课程182",
-    "slug": "lesson-182",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "数据分析"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "da-lesson-183",
-    "courseId": "da-course-07",
-    "order": 14,
-    "title": "补充课程183",
-    "slug": "lesson-183",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "数据分析"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "da-lesson-184",
-    "courseId": "da-course-08",
-    "order": 15,
-    "title": "补充课程184",
-    "slug": "lesson-184",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "数据分析"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "da-lesson-185",
-    "courseId": "da-course-09",
-    "order": 14,
-    "title": "补充课程185",
-    "slug": "lesson-185",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "数据分析"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "da-lesson-186",
-    "courseId": "da-course-10",
-    "order": 13,
-    "title": "补充课程186",
-    "slug": "lesson-186",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "数据分析"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "da-lesson-187",
-    "courseId": "da-course-11",
-    "order": 13,
-    "title": "补充课程187",
-    "slug": "lesson-187",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "数据分析"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "da-lesson-188",
     "courseId": "da-course-12",
     "order": 12,
-    "title": "补充课程188",
-    "slug": "lesson-188",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
+    "title": "A/B 测试与实验分析拓展180",
+    "slug": "AB测试与实验分析-ext-180",
+    "summary": "A/B 测试与实验分析拓展",
+    "content": "#A/B 测试与实验分析拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "数据分析"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "da-lesson-189",
-    "courseId": "da-course-13",
-    "order": 12,
-    "title": "补充课程189",
-    "slug": "lesson-189",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "数据分析"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "da-lesson-190",
-    "courseId": "da-course-14",
-    "order": 13,
-    "title": "补充课程190",
-    "slug": "lesson-190",
-    "summary": "数据分析补充课程",
-    "content": "# 数据分析补充内容",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "数据分析"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   }
 ]

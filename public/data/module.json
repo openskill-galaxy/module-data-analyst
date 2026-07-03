@@ -28,14 +28,14 @@
   "status": "stable",
   "stats": {
     "courses": 14,
-    "lessons": 190,
-    "knowledgePoints": 809,
-    "questions": 3008,
+    "lessons": 120,
+    "knowledgePoints": 284,
+    "questions": 3000,
     "cases": 260,
     "exams": 85,
     "routes": 35,
-    "glossary": 362,
-    "faqs": 213,
+    "glossary": 42,
+    "faqs": 53,
     "tags": 1973
   }
 }

@@ -20,14 +20,9 @@
       "da-lesson-007",
       "da-lesson-091",
       "da-lesson-105",
-      "da-lesson-119",
-      "da-lesson-121",
-      "da-lesson-135",
-      "da-lesson-149",
-      "da-lesson-163",
-      "da-lesson-177"
+      "da-lesson-119"
     ],
-    "totalLessons": 15,
+    "totalLessons": 10,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -58,14 +53,9 @@
       "da-lesson-013",
       "da-lesson-092",
       "da-lesson-106",
-      "da-lesson-120",
-      "da-lesson-122",
-      "da-lesson-136",
-      "da-lesson-150",
-      "da-lesson-164",
-      "da-lesson-178"
+      "da-lesson-120"
     ],
-    "totalLessons": 14,
+    "totalLessons": 9,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -95,14 +85,9 @@
       "da-lesson-018",
       "da-lesson-019",
       "da-lesson-093",
-      "da-lesson-107",
-      "da-lesson-123",
-      "da-lesson-137",
-      "da-lesson-151",
-      "da-lesson-165",
-      "da-lesson-179"
+      "da-lesson-107"
     ],
-    "totalLessons": 13,
+    "totalLessons": 8,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -134,14 +119,9 @@
       "da-lesson-026",
       "da-lesson-027",
       "da-lesson-094",
-      "da-lesson-108",
-      "da-lesson-124",
-      "da-lesson-138",
-      "da-lesson-152",
-      "da-lesson-166",
-      "da-lesson-180"
+      "da-lesson-108"
     ],
-    "totalLessons": 15,
+    "totalLessons": 10,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -170,14 +150,9 @@
       "da-lesson-031",
       "da-lesson-032",
       "da-lesson-095",
-      "da-lesson-109",
-      "da-lesson-125",
-      "da-lesson-139",
-      "da-lesson-153",
-      "da-lesson-167",
-      "da-lesson-181"
+      "da-lesson-109"
     ],
-    "totalLessons": 12,
+    "totalLessons": 7,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -209,14 +184,9 @@
       "da-lesson-039",
       "da-lesson-040",
       "da-lesson-096",
-      "da-lesson-110",
-      "da-lesson-126",
-      "da-lesson-140",
-      "da-lesson-154",
-      "da-lesson-168",
-      "da-lesson-182"
+      "da-lesson-110"
     ],
-    "totalLessons": 15,
+    "totalLessons": 10,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -247,14 +217,9 @@
       "da-lesson-046",
       "da-lesson-047",
       "da-lesson-097",
-      "da-lesson-111",
-      "da-lesson-127",
-      "da-lesson-141",
-      "da-lesson-155",
-      "da-lesson-169",
-      "da-lesson-183"
+      "da-lesson-111"
     ],
-    "totalLessons": 14,
+    "totalLessons": 9,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -286,14 +251,9 @@
       "da-lesson-054",
       "da-lesson-055",
       "da-lesson-098",
-      "da-lesson-112",
-      "da-lesson-128",
-      "da-lesson-142",
-      "da-lesson-156",
-      "da-lesson-170",
-      "da-lesson-184"
+      "da-lesson-112"
     ],
-    "totalLessons": 15,
+    "totalLessons": 10,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -324,14 +284,9 @@
       "da-lesson-061",
       "da-lesson-062",
       "da-lesson-099",
-      "da-lesson-113",
-      "da-lesson-129",
-      "da-lesson-143",
-      "da-lesson-157",
-      "da-lesson-171",
-      "da-lesson-185"
+      "da-lesson-113"
     ],
-    "totalLessons": 14,
+    "totalLessons": 9,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -361,14 +316,9 @@
       "da-lesson-067",
       "da-lesson-068",
       "da-lesson-100",
-      "da-lesson-114",
-      "da-lesson-130",
-      "da-lesson-144",
-      "da-lesson-158",
-      "da-lesson-172",
-      "da-lesson-186"
+      "da-lesson-114"
     ],
-    "totalLessons": 13,
+    "totalLessons": 8,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -398,14 +348,9 @@
       "da-lesson-073",
       "da-lesson-074",
       "da-lesson-101",
-      "da-lesson-115",
-      "da-lesson-131",
-      "da-lesson-145",
-      "da-lesson-159",
-      "da-lesson-173",
-      "da-lesson-187"
+      "da-lesson-115"
     ],
-    "totalLessons": 13,
+    "totalLessons": 8,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -434,14 +379,9 @@
       "da-lesson-078",
       "da-lesson-079",
       "da-lesson-102",
-      "da-lesson-116",
-      "da-lesson-132",
-      "da-lesson-146",
-      "da-lesson-160",
-      "da-lesson-174",
-      "da-lesson-188"
+      "da-lesson-116"
     ],
-    "totalLessons": 12,
+    "totalLessons": 7,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -470,14 +410,9 @@
       "da-lesson-083",
       "da-lesson-084",
       "da-lesson-103",
-      "da-lesson-117",
-      "da-lesson-133",
-      "da-lesson-147",
-      "da-lesson-161",
-      "da-lesson-175",
-      "da-lesson-189"
+      "da-lesson-117"
     ],
-    "totalLessons": 12,
+    "totalLessons": 7,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -507,14 +442,9 @@
       "da-lesson-089",
       "da-lesson-090",
       "da-lesson-104",
-      "da-lesson-118",
-      "da-lesson-134",
-      "da-lesson-148",
-      "da-lesson-162",
-      "da-lesson-176",
-      "da-lesson-190"
+      "da-lesson-118"
     ],
-    "totalLessons": 13,
+    "totalLessons": 8,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [

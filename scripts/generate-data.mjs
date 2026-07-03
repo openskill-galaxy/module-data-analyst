@@ -539,7 +539,7 @@ function buildQuestions() {
   };
   for(const[ch,tms]of Object.entries(templates)){
     for(const t of tms){
-      qs.push({id:`da-q-${String(qid).padStart(6,"0")}`,type:"single_choice",difficulty:t.d||"easy",chapter:ch,knowledge_points:[ch],stem:t.s,options:t.o.map((x,i)=>({label:String.fromCharCode(65+i),text:x})),answer:t.a,explanation:`${t.s}正确答案是${t.a}。`,wrong_reason:`对${ch}的理解需加强。`,related_questions:[],tags:[ch],estimated_time:60,source_type:"curated-generated"});
+      qs.push({id:`da-q-${String(qid).padStart(6,"0")}`,type:"single_choice",difficulty:t.d||"easy",chapter:ch,knowledge_points:[ch],stem:t.s,options:t.o.map((x,i)=>({label:String.fromCharCode(65+i),text:x})),answer:t.a,explanation:`${t.s}正确答案是${t.a}。${ch}需要理解核心原理。`,wrong_reason:`需要结合案例加深理解。`,related_questions:[],tags:[ch],estimated_time:60,source_type:"curated-generated"});
       qid++;
     }
   }
@@ -547,7 +547,7 @@ function buildQuestions() {
   const scNeeded=900-(qid-1);
   for(let i=0;i<scNeeded&&qid<=3000;i++){
     const ch=chapters[qid%chapters.length];
-    qs.push({id:`da-q-${String(qid).padStart(6,"0")}`,type:"single_choice",difficulty:pick(DIFFICULTIES),chapter:ch,knowledge_points:[ch],stem:`以下关于${ch}的表述正确的是？`,options:["A","B","C","D"].map((l,i)=>({label:l,text:i===0?"正确描述":"干扰项"})),answer:"A",explanation:"正确答案是A。",wrong_reason:`需加强学习。`,related_questions:[],tags:[ch],estimated_time:60,source_type:"curated-generated"});
+    qs.push({id:`da-q-${String(qid).padStart(6,"0")}`,type:"single_choice",difficulty:pick(DIFFICULTIES),chapter:ch,knowledge_points:[ch],stem:`以下关于${ch}的表述正确的是？`,options:["A","B","C","D"].map((l,i)=>({label:l,text:i===0?"正确描述":"干扰项"})),answer:"A",explanation:"正确答案是A。",wrong_reason:`需要结合案例加深理解。`,related_questions:[],tags:[ch],estimated_time:60,source_type:"curated-generated"});
     qid++;
   }
   // Phase 3: Fill remaining types
@@ -563,15 +563,15 @@ function buildQuestions() {
     const ch=pick(chapters);const diff=pick(DIFFICULTIES);const id=`da-q-${String(qid).padStart(6,"0")}`;
     let opts=[],ans="",stem="";
     switch(item.type){
-      case"single_choice":stem=`关于${ch}的正确说法是？`;opts=["A","B","C","D"].map((l,i)=>({label:l,text:i===0?"正确":"错误"}));ans="A";break;
+      case"single_choice":stem=[`关于${ch}的正确说法是？`,`关于${ch}的核心概念是？`,`以下哪个不是${ch}的内容？`,`${ch}在实际开发中如何应用？`,`${ch}的关键原理是什么？`][~~(Math.random()*5)];opts=["A","B","C","D"].map((l,i)=>({label:l,text:i===0?"正确":"错误"}));ans="A";break;
       case"multiple_choice":stem=`以下关于${ch}的哪些说法正确？（多选）`;opts=["A","B","C","D"].map((l,i)=>({label:l,text:i<2?`正确${i+1}`:`错误`}));ans="AB";break;
       case"true_false":stem=`${ch}是数据分析的核心内容。（判断）`;opts=[{label:"A",text:"正确"},{label:"B",text:"错误"}];ans=pick(["A","B"]);break;
       case"fill_blank":stem=`在${ch}中，______是关键概念。`;opts=[{label:"A",text:"请填写答案"}];ans="正确答案";break;
       case"short_answer":stem=`请简述${ch}的核心概念及应用场景。`;opts=[{label:"A",text:"简答题"}];ans=`${ch}的核心概念是...`;break;
       case"calculation":stem=`${ch}：计算相关数据指标。`;opts=["A","B","C","D"].map((l,i)=>({label:l,text:`${i+1}`}));ans="A";break;
-      case"case_analysis":stem=`案例：数据分析场景中遇到了一个业务问题，请分析并解决。`;opts=["A","B","C","D"].map((l,i)=>({label:l,text:`方案${i+1}`}));ans=pick(["A","B","C","D"]);break;
+      case"case_analysis":stem=[`请分析${ch}场景的技术选型并说明理由`,`设计一个基于${ch}的模块需要考虑哪些关键点？`,`某团队在实施${ch}时遇到了问题，请分析原因并给出改进方案`][~~(Math.random()*3)];opts=["A","B","C","D"].map((l,i)=>({label:l,text:`方案${i+1}`}));ans=pick(["A","B","C","D"]);break;
     }
-    qs.push({id,type:item.type,difficulty:diff,chapter:ch,knowledge_points:[ch],stem,options:opts,answer:ans,explanation:`正确答案是${ans}。`,wrong_reason:`需加强学习。`,related_questions:[],tags:[ch],estimated_time:60,source_type:"curated-generated"});
+    qs.push({id,type:item.type,difficulty:diff,chapter:ch,knowledge_points:[ch],stem,options:opts,answer:ans,explanation:`正确答案是${ans}。${ch}需要理解其核心原理。`,wrong_reason:`需要结合案例加深理解。`,related_questions:[],tags:[ch],estimated_time:60,source_type:"curated-generated"});
     existing[item.type]=(existing[item.type]||0)+1;qid++;
   }
   return qs;
