@@ -26,7 +26,13 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据分析师的核心职责\n\n数据分析师的核心职责的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据分析师的核心职责的核心知识。",
+    "knowledgePoints": [
+      "da-kp-001",
+      "da-kp-002",
+      "da-kp-003"
+    ]
   },
   {
     "id": "da-lesson-002",
@@ -54,7 +60,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据分析师技能树\n\n数据分析师技能树的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据分析师技能树的核心知识。",
+    "knowledgePoints": [
+      "da-kp-004",
+      "da-kp-005"
+    ]
   },
   {
     "id": "da-lesson-003",
@@ -82,7 +93,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据分析流程\n\n数据分析流程的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据分析流程的核心知识。",
+    "knowledgePoints": [
+      "da-kp-006",
+      "da-kp-007"
+    ]
   },
   {
     "id": "da-lesson-004",
@@ -109,7 +125,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据分析岗位分类\n\n数据分析岗位分类的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据分析岗位分类的核心知识。",
+    "knowledgePoints": [
+      "da-kp-008"
+    ]
   },
   {
     "id": "da-lesson-005",
@@ -136,7 +156,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据分析师的一天\n\n数据分析师的一天的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据分析师的一天的核心知识。",
+    "knowledgePoints": [
+      "da-kp-009"
+    ]
   },
   {
     "id": "da-lesson-006",
@@ -163,7 +187,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据分析工具概览\n\n数据分析工具概览的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据分析工具概览的核心知识。",
+    "knowledgePoints": [
+      "da-kp-010"
+    ]
   },
   {
     "id": "da-lesson-007",
@@ -190,7 +218,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据分析职业发展路径\n\n数据分析职业发展路径的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据分析职业发展路径的核心知识。",
+    "knowledgePoints": [
+      "da-kp-011"
+    ]
   },
   {
     "id": "da-lesson-008",
@@ -218,7 +250,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 结构化思维\n\n结构化思维的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了结构化思维的核心知识。",
+    "knowledgePoints": [
+      "da-kp-012",
+      "da-kp-013"
+    ]
   },
   {
     "id": "da-lesson-009",
@@ -245,7 +282,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# MECE原则\n\nMECE原则的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了MECE原则的核心知识。",
+    "knowledgePoints": [
+      "da-kp-014"
+    ]
   },
   {
     "id": "da-lesson-010",
@@ -273,7 +314,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 问题拆解方法\n\n问题拆解方法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了问题拆解方法的核心知识。",
+    "knowledgePoints": [
+      "da-kp-015",
+      "da-kp-016"
+    ]
   },
   {
     "id": "da-lesson-011",
@@ -301,7 +347,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 指标定义与分类\n\n指标定义与分类的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了指标定义与分类的核心知识。",
+    "knowledgePoints": [
+      "da-kp-017",
+      "da-kp-018"
+    ]
   },
   {
     "id": "da-lesson-012",
@@ -328,7 +379,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 业务理解方法\n\n业务理解方法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了业务理解方法的核心知识。",
+    "knowledgePoints": [
+      "da-kp-019"
+    ]
   },
   {
     "id": "da-lesson-013",
@@ -355,7 +410,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据分析框架\n\n数据分析框架的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据分析框架的核心知识。",
+    "knowledgePoints": [
+      "da-kp-020"
+    ]
   },
   {
     "id": "da-lesson-014",
@@ -377,7 +436,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Excel数据透视表\n\nExcel数据透视表的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Excel数据透视表的核心知识。",
+    "knowledgePoints": [
+      "da-kp-021",
+      "da-kp-022"
+    ]
   },
   {
     "id": "da-lesson-015",
@@ -399,7 +463,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# VLOOKUP函数\n\nVLOOKUP函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了VLOOKUP函数的核心知识。",
+    "knowledgePoints": [
+      "da-kp-023",
+      "da-kp-024"
+    ]
   },
   {
     "id": "da-lesson-016",
@@ -421,7 +490,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Excel常用函数\n\nExcel常用函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Excel常用函数的核心知识。",
+    "knowledgePoints": [
+      "da-kp-025",
+      "da-kp-026"
+    ]
   },
   {
     "id": "da-lesson-017",
@@ -442,7 +516,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 条件格式\n\n条件格式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了条件格式的核心知识。",
+    "knowledgePoints": [
+      "da-kp-027"
+    ]
   },
   {
     "id": "da-lesson-018",
@@ -463,7 +541,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Excel图表\n\nExcel图表的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Excel图表的核心知识。",
+    "knowledgePoints": [
+      "da-kp-028"
+    ]
   },
   {
     "id": "da-lesson-019",
@@ -484,7 +566,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Excel数据清洗\n\nExcel数据清洗的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Excel数据清洗的核心知识。",
+    "knowledgePoints": [
+      "da-kp-029"
+    ]
   },
   {
     "id": "da-lesson-020",
@@ -506,7 +592,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# SELECT基础\n\nSELECT基础的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了SELECT基础的核心知识。",
+    "knowledgePoints": [
+      "da-kp-030",
+      "da-kp-031"
+    ]
   },
   {
     "id": "da-lesson-021",
@@ -528,7 +619,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# WHERE条件筛选\n\nWHERE条件筛选的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了WHERE条件筛选的核心知识。",
+    "knowledgePoints": [
+      "da-kp-032",
+      "da-kp-033"
+    ]
   },
   {
     "id": "da-lesson-022",
@@ -551,7 +647,13 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# GROUPBY与聚合函数\n\nGROUPBY与聚合函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了GROUPBY与聚合函数的核心知识。",
+    "knowledgePoints": [
+      "da-kp-034",
+      "da-kp-035",
+      "da-kp-036"
+    ]
   },
   {
     "id": "da-lesson-023",
@@ -572,7 +674,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# HAVING子句\n\nHAVING子句的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了HAVING子句的核心知识。",
+    "knowledgePoints": [
+      "da-kp-037"
+    ]
   },
   {
     "id": "da-lesson-024",
@@ -595,7 +701,13 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# JOIN连接\n\nJOIN连接的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了JOIN连接的核心知识。",
+    "knowledgePoints": [
+      "da-kp-038",
+      "da-kp-039",
+      "da-kp-040"
+    ]
   },
   {
     "id": "da-lesson-025",
@@ -617,7 +729,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 子查询\n\n子查询的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了子查询的核心知识。",
+    "knowledgePoints": [
+      "da-kp-041",
+      "da-kp-042"
+    ]
   },
   {
     "id": "da-lesson-026",
@@ -640,7 +757,13 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 窗口函数\n\n窗口函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了窗口函数的核心知识。",
+    "knowledgePoints": [
+      "da-kp-043",
+      "da-kp-044",
+      "da-kp-045"
+    ]
   },
   {
     "id": "da-lesson-027",
@@ -661,7 +784,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# CTE公共表表达式\n\nCTE公共表表达式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了CTE公共表表达式的核心知识。",
+    "knowledgePoints": [
+      "da-kp-046"
+    ]
   },
   {
     "id": "da-lesson-028",
@@ -683,7 +810,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Python基础回顾\n\nPython基础回顾的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Python基础回顾的核心知识。",
+    "knowledgePoints": [
+      "da-kp-047",
+      "da-kp-048"
+    ]
   },
   {
     "id": "da-lesson-029",
@@ -705,7 +837,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# NumPy数组\n\nNumPy数组的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了NumPy数组的核心知识。",
+    "knowledgePoints": [
+      "da-kp-049",
+      "da-kp-050"
+    ]
   },
   {
     "id": "da-lesson-030",
@@ -727,7 +864,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 读取CSV文件\n\n读取CSV文件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了读取CSV文件的核心知识。",
+    "knowledgePoints": [
+      "da-kp-051",
+      "da-kp-052"
+    ]
   },
   {
     "id": "da-lesson-031",
@@ -749,7 +891,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 读取Excel文件\n\n读取Excel文件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了读取Excel文件的核心知识。",
+    "knowledgePoints": [
+      "da-kp-053",
+      "da-kp-054"
+    ]
   },
   {
     "id": "da-lesson-032",
@@ -770,7 +917,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# JSON数据处理\n\nJSON数据处理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了JSON数据处理的核心知识。",
+    "knowledgePoints": [
+      "da-kp-055"
+    ]
   },
   {
     "id": "da-lesson-033",
@@ -792,7 +943,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Series数据结构\n\nSeries数据结构的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Series数据结构的核心知识。",
+    "knowledgePoints": [
+      "da-kp-056",
+      "da-kp-057"
+    ]
   },
   {
     "id": "da-lesson-034",
@@ -814,7 +970,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# DataFrame\n\nDataFrame的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了DataFrame的核心知识。",
+    "knowledgePoints": [
+      "da-kp-058",
+      "da-kp-059"
+    ]
   },
   {
     "id": "da-lesson-035",
@@ -836,7 +997,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据筛选与切片\n\n数据筛选与切片的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据筛选与切片的核心知识。",
+    "knowledgePoints": [
+      "da-kp-060",
+      "da-kp-061"
+    ]
   },
   {
     "id": "da-lesson-036",
@@ -857,7 +1023,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据排序\n\n数据排序的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据排序的核心知识。",
+    "knowledgePoints": [
+      "da-kp-062"
+    ]
   },
   {
     "id": "da-lesson-037",
@@ -879,7 +1049,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 分组聚合\n\n分组聚合的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了分组聚合的核心知识。",
+    "knowledgePoints": [
+      "da-kp-063",
+      "da-kp-064"
+    ]
   },
   {
     "id": "da-lesson-038",
@@ -901,7 +1076,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据透视表pandas\n\n数据透视表pandas的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据透视表pandas的核心知识。",
+    "knowledgePoints": [
+      "da-kp-065",
+      "da-kp-066"
+    ]
   },
   {
     "id": "da-lesson-039",
@@ -922,7 +1102,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据合并concat\n\n数据合并concat的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据合并concat的核心知识。",
+    "knowledgePoints": [
+      "da-kp-067"
+    ]
   },
   {
     "id": "da-lesson-040",
@@ -943,7 +1127,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据合并merge\n\n数据合并merge的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据合并merge的核心知识。",
+    "knowledgePoints": [
+      "da-kp-068"
+    ]
   },
   {
     "id": "da-lesson-041",
@@ -971,7 +1159,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 缺失值识别\n\n缺失值识别的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了缺失值识别的核心知识。",
+    "knowledgePoints": [
+      "da-kp-069",
+      "da-kp-070"
+    ]
   },
   {
     "id": "da-lesson-042",
@@ -999,7 +1192,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 缺失值填充\n\n缺失值填充的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了缺失值填充的核心知识。",
+    "knowledgePoints": [
+      "da-kp-071",
+      "da-kp-072"
+    ]
   },
   {
     "id": "da-lesson-043",
@@ -1026,7 +1224,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 缺失值删除\n\n缺失值删除的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了缺失值删除的核心知识。",
+    "knowledgePoints": [
+      "da-kp-073"
+    ]
   },
   {
     "id": "da-lesson-044",
@@ -1054,7 +1256,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 异常值检测\n\n异常值检测的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了异常值检测的核心知识。",
+    "knowledgePoints": [
+      "da-kp-074",
+      "da-kp-075"
+    ]
   },
   {
     "id": "da-lesson-045",
@@ -1081,7 +1288,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 重复值处理\n\n重复值处理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了重复值处理的核心知识。",
+    "knowledgePoints": [
+      "da-kp-076"
+    ]
   },
   {
     "id": "da-lesson-046",
@@ -1108,7 +1319,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据类型转换\n\n数据类型转换的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据类型转换的核心知识。",
+    "knowledgePoints": [
+      "da-kp-077"
+    ]
   },
   {
     "id": "da-lesson-047",
@@ -1135,7 +1350,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据标准化\n\n数据标准化的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据标准化的核心知识。",
+    "knowledgePoints": [
+      "da-kp-078"
+    ]
   },
   {
     "id": "da-lesson-048",
@@ -1163,7 +1382,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# matplotlib基础\n\nmatplotlib基础的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了matplotlib基础的核心知识。",
+    "knowledgePoints": [
+      "da-kp-079",
+      "da-kp-080"
+    ]
   },
   {
     "id": "da-lesson-049",
@@ -1190,7 +1414,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 折线图\n\n折线图的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了折线图的核心知识。",
+    "knowledgePoints": [
+      "da-kp-081"
+    ]
   },
   {
     "id": "da-lesson-050",
@@ -1217,7 +1445,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 柱状图\n\n柱状图的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了柱状图的核心知识。",
+    "knowledgePoints": [
+      "da-kp-082"
+    ]
   },
   {
     "id": "da-lesson-051",
@@ -1244,7 +1476,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 饼图\n\n饼图的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了饼图的核心知识。",
+    "knowledgePoints": [
+      "da-kp-083"
+    ]
   },
   {
     "id": "da-lesson-052",
@@ -1271,7 +1507,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 散点图\n\n散点图的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了散点图的核心知识。",
+    "knowledgePoints": [
+      "da-kp-084"
+    ]
   },
   {
     "id": "da-lesson-053",
@@ -1298,7 +1538,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 箱线图\n\n箱线图的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了箱线图的核心知识。",
+    "knowledgePoints": [
+      "da-kp-085"
+    ]
   },
   {
     "id": "da-lesson-054",
@@ -1326,7 +1570,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# seaborn热力图\n\nseaborn热力图的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了seaborn热力图的核心知识。",
+    "knowledgePoints": [
+      "da-kp-086",
+      "da-kp-087"
+    ]
   },
   {
     "id": "da-lesson-055",
@@ -1353,7 +1602,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 分布图\n\n分布图的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了分布图的核心知识。",
+    "knowledgePoints": [
+      "da-kp-088"
+    ]
   },
   {
     "id": "da-lesson-056",
@@ -1381,7 +1634,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 描述统计\n\n描述统计的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了描述统计的核心知识。",
+    "knowledgePoints": [
+      "da-kp-089",
+      "da-kp-090"
+    ]
   },
   {
     "id": "da-lesson-057",
@@ -1409,7 +1667,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 均值中位数众数\n\n均值中位数众数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了均值中位数众数的核心知识。",
+    "knowledgePoints": [
+      "da-kp-091",
+      "da-kp-092"
+    ]
   },
   {
     "id": "da-lesson-058",
@@ -1437,7 +1700,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 方差与标准差\n\n方差与标准差的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了方差与标准差的核心知识。",
+    "knowledgePoints": [
+      "da-kp-093",
+      "da-kp-094"
+    ]
   },
   {
     "id": "da-lesson-059",
@@ -1465,7 +1733,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 相关性分析\n\n相关性分析的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了相关性分析的核心知识。",
+    "knowledgePoints": [
+      "da-kp-095",
+      "da-kp-096"
+    ]
   },
   {
     "id": "da-lesson-060",
@@ -1493,7 +1766,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 假设检验入门\n\n假设检验入门的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了假设检验入门的核心知识。",
+    "knowledgePoints": [
+      "da-kp-097",
+      "da-kp-098"
+    ]
   },
   {
     "id": "da-lesson-061",
@@ -1520,7 +1798,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# t检验\n\nt检验的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了t检验的核心知识。",
+    "knowledgePoints": [
+      "da-kp-099"
+    ]
   },
   {
     "id": "da-lesson-062",
@@ -1547,7 +1829,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 卡方检验\n\n卡方检验的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了卡方检验的核心知识。",
+    "knowledgePoints": [
+      "da-kp-100"
+    ]
   },
   {
     "id": "da-lesson-063",
@@ -1575,7 +1861,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# KPI指标体系\n\nKPI指标体系的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了KPI指标体系的核心知识。",
+    "knowledgePoints": [
+      "da-kp-101",
+      "da-kp-102"
+    ]
   },
   {
     "id": "da-lesson-064",
@@ -1603,7 +1894,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 转化率\n\n转化率的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了转化率的核心知识。",
+    "knowledgePoints": [
+      "da-kp-103",
+      "da-kp-104"
+    ]
   },
   {
     "id": "da-lesson-065",
@@ -1631,7 +1927,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 留存率\n\n留存率的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了留存率的核心知识。",
+    "knowledgePoints": [
+      "da-kp-105",
+      "da-kp-106"
+    ]
   },
   {
     "id": "da-lesson-066",
@@ -1658,7 +1959,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 复购率\n\n复购率的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了复购率的核心知识。",
+    "knowledgePoints": [
+      "da-kp-107"
+    ]
   },
   {
     "id": "da-lesson-067",
@@ -1686,7 +1991,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 漏斗分析\n\n漏斗分析的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了漏斗分析的核心知识。",
+    "knowledgePoints": [
+      "da-kp-108",
+      "da-kp-109"
+    ]
   },
   {
     "id": "da-lesson-068",
@@ -1713,7 +2023,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 用户分层\n\n用户分层的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了用户分层的核心知识。",
+    "knowledgePoints": [
+      "da-kp-110"
+    ]
   },
   {
     "id": "da-lesson-069",
@@ -1736,7 +2050,13 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# RFM模型\n\nRFM模型的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了RFM模型的核心知识。",
+    "knowledgePoints": [
+      "da-kp-111",
+      "da-kp-112",
+      "da-kp-113"
+    ]
   },
   {
     "id": "da-lesson-070",
@@ -1758,7 +2078,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Cohort分析\n\nCohort分析的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Cohort分析的核心知识。",
+    "knowledgePoints": [
+      "da-kp-114",
+      "da-kp-115"
+    ]
   },
   {
     "id": "da-lesson-071",
@@ -1779,7 +2104,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 用户生命周期\n\n用户生命周期的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了用户生命周期的核心知识。",
+    "knowledgePoints": [
+      "da-kp-116"
+    ]
   },
   {
     "id": "da-lesson-072",
@@ -1800,7 +2129,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 行为分析\n\n行为分析的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了行为分析的核心知识。",
+    "knowledgePoints": [
+      "da-kp-117"
+    ]
   },
   {
     "id": "da-lesson-073",
@@ -1822,7 +2155,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# LTV计算\n\nLTV计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了LTV计算的核心知识。",
+    "knowledgePoints": [
+      "da-kp-118",
+      "da-kp-119"
+    ]
   },
   {
     "id": "da-lesson-074",
@@ -1843,7 +2181,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# CAC计算\n\nCAC计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了CAC计算的核心知识。",
+    "knowledgePoints": [
+      "da-kp-120"
+    ]
   },
   {
     "id": "da-lesson-075",
@@ -1865,7 +2207,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# A/B测试设计\n\nA/B测试设计的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了A/B测试设计的核心知识。",
+    "knowledgePoints": [
+      "da-kp-121",
+      "da-kp-122"
+    ]
   },
   {
     "id": "da-lesson-076",
@@ -1886,7 +2233,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 实验分组\n\n实验分组的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了实验分组的核心知识。",
+    "knowledgePoints": [
+      "da-kp-123"
+    ]
   },
   {
     "id": "da-lesson-077",
@@ -1908,7 +2259,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 统计功效\n\n统计功效的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了统计功效的核心知识。",
+    "knowledgePoints": [
+      "da-kp-124",
+      "da-kp-125"
+    ]
   },
   {
     "id": "da-lesson-078",
@@ -1929,7 +2285,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 结果解读\n\n结果解读的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了结果解读的核心知识。",
+    "knowledgePoints": [
+      "da-kp-126"
+    ]
   },
   {
     "id": "da-lesson-079",
@@ -1950,7 +2310,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# A/B测试注意事项\n\nA/B测试注意事项的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了A/B测试注意事项的核心知识。",
+    "knowledgePoints": [
+      "da-kp-127"
+    ]
   },
   {
     "id": "da-lesson-080",
@@ -1978,7 +2342,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 电商数据分析项目\n\n电商数据分析项目的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了电商数据分析项目的核心知识。",
+    "knowledgePoints": [
+      "da-kp-128",
+      "da-kp-129"
+    ]
   },
   {
     "id": "da-lesson-081",
@@ -2006,7 +2375,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 用户增长分析项目\n\n用户增长分析项目的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了用户增长分析项目的核心知识。",
+    "knowledgePoints": [
+      "da-kp-130",
+      "da-kp-131"
+    ]
   },
   {
     "id": "da-lesson-082",
@@ -2033,7 +2407,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 活动效果分析项目\n\n活动效果分析项目的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了活动效果分析项目的核心知识。",
+    "knowledgePoints": [
+      "da-kp-132"
+    ]
   },
   {
     "id": "da-lesson-083",
@@ -2062,7 +2440,13 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据看板设计\n\n数据看板设计的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据看板设计的核心知识。",
+    "knowledgePoints": [
+      "da-kp-133",
+      "da-kp-134",
+      "da-kp-135"
+    ]
   },
   {
     "id": "da-lesson-084",
@@ -2090,7 +2474,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据分析报告撰写\n\n数据分析报告撰写的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据分析报告撰写的核心知识。",
+    "knowledgePoints": [
+      "da-kp-136",
+      "da-kp-137"
+    ]
   },
   {
     "id": "da-lesson-085",
@@ -2112,7 +2501,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据分析师简历\n\n数据分析师简历的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据分析师简历的核心知识。",
+    "knowledgePoints": [
+      "da-kp-138",
+      "da-kp-139"
+    ]
   },
   {
     "id": "da-lesson-086",
@@ -2134,7 +2528,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 作品集搭建\n\n作品集搭建的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了作品集搭建的核心知识。",
+    "knowledgePoints": [
+      "da-kp-140",
+      "da-kp-141"
+    ]
   },
   {
     "id": "da-lesson-087",
@@ -2156,7 +2555,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 面试准备\n\n面试准备的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了面试准备的核心知识。",
+    "knowledgePoints": [
+      "da-kp-142",
+      "da-kp-143"
+    ]
   },
   {
     "id": "da-lesson-088",
@@ -2177,7 +2581,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 案例分析面试\n\n案例分析面试的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了案例分析面试的核心知识。",
+    "knowledgePoints": [
+      "da-kp-144"
+    ]
   },
   {
     "id": "da-lesson-089",
@@ -2199,7 +2607,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# SQL面试题\n\nSQL面试题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了SQL面试题的核心知识。",
+    "knowledgePoints": [
+      "da-kp-145",
+      "da-kp-146"
+    ]
   },
   {
     "id": "da-lesson-090",
@@ -2220,7 +2633,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 业务案例面试\n\n业务案例面试的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了业务案例面试的核心知识。",
+    "knowledgePoints": [
+      "da-kp-147"
+    ]
   },
   {
     "id": "da-lesson-091",
@@ -2247,7 +2664,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据分析伦理与隐私\n\n数据分析伦理与隐私的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据分析伦理与隐私的核心知识。",
+    "knowledgePoints": [
+      "da-kp-148"
+    ]
   },
   {
     "id": "da-lesson-092",
@@ -2274,7 +2695,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 批判性思维\n\n批判性思维的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了批判性思维的核心知识。",
+    "knowledgePoints": [
+      "da-kp-149"
+    ]
   },
   {
     "id": "da-lesson-093",
@@ -2295,7 +2720,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Excel高级图表\n\nExcel高级图表的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Excel高级图表的核心知识。",
+    "knowledgePoints": [
+      "da-kp-150"
+    ]
   },
   {
     "id": "da-lesson-094",
@@ -2316,7 +2745,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# SQL性能优化\n\nSQL性能优化的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了SQL性能优化的核心知识。",
+    "knowledgePoints": [
+      "da-kp-151"
+    ]
   },
   {
     "id": "da-lesson-095",
@@ -2337,7 +2770,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Python函数式编程\n\nPython函数式编程的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Python函数式编程的核心知识。",
+    "knowledgePoints": [
+      "da-kp-152"
+    ]
   },
   {
     "id": "da-lesson-096",
@@ -2359,7 +2796,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# pandas时间序列\n\npandas时间序列的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了pandas时间序列的核心知识。",
+    "knowledgePoints": [
+      "da-kp-153",
+      "da-kp-154"
+    ]
   },
   {
     "id": "da-lesson-097",
@@ -2386,7 +2828,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据不一致处理\n\n数据不一致处理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据不一致处理的核心知识。",
+    "knowledgePoints": [
+      "da-kp-155"
+    ]
   },
   {
     "id": "da-lesson-098",
@@ -2413,7 +2859,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 多子图布局\n\n多子图布局的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了多子图布局的核心知识。",
+    "knowledgePoints": [
+      "da-kp-156"
+    ]
   },
   {
     "id": "da-lesson-099",
@@ -2441,7 +2891,12 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 回归分析\n\n回归分析的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了回归分析的核心知识。",
+    "knowledgePoints": [
+      "da-kp-157",
+      "da-kp-158"
+    ]
   },
   {
     "id": "da-lesson-100",
@@ -2468,7 +2923,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 北极星指标\n\n北极星指标的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了北极星指标的核心知识。",
+    "knowledgePoints": [
+      "da-kp-159"
+    ]
   },
   {
     "id": "da-lesson-101",
@@ -2489,7 +2948,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 用户分群分析\n\n用户分群分析的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了用户分群分析的核心知识。",
+    "knowledgePoints": [
+      "da-kp-160"
+    ]
   },
   {
     "id": "da-lesson-102",
@@ -2510,7 +2973,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 实验样本量计算\n\n实验样本量计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了实验样本量计算的核心知识。",
+    "knowledgePoints": [
+      "da-kp-161"
+    ]
   },
   {
     "id": "da-lesson-103",
@@ -2537,7 +3004,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 经营数据分析\n\n经营数据分析的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了经营数据分析的核心知识。",
+    "knowledgePoints": [
+      "da-kp-162"
+    ]
   },
   {
     "id": "da-lesson-104",
@@ -2558,7 +3029,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据分析师软技能\n\n数据分析师软技能的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据分析师软技能的核心知识。",
+    "knowledgePoints": [
+      "da-kp-163"
+    ]
   },
   {
     "id": "da-lesson-105",
@@ -2585,7 +3060,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据分析师薪酬\n\n数据分析师薪酬的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据分析师薪酬的核心知识。",
+    "knowledgePoints": [
+      "da-kp-164"
+    ]
   },
   {
     "id": "da-lesson-106",
@@ -2612,7 +3091,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据驱动文化\n\n数据驱动文化的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据驱动文化的核心知识。",
+    "knowledgePoints": [
+      "da-kp-165"
+    ]
   },
   {
     "id": "da-lesson-107",
@@ -2633,7 +3116,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Excel宏基础\n\nExcel宏基础的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Excel宏基础的核心知识。",
+    "knowledgePoints": [
+      "da-kp-166"
+    ]
   },
   {
     "id": "da-lesson-108",
@@ -2654,7 +3141,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# SQL子查询进阶\n\nSQL子查询进阶的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了SQL子查询进阶的核心知识。",
+    "knowledgePoints": [
+      "da-kp-167"
+    ]
   },
   {
     "id": "da-lesson-109",
@@ -2675,7 +3166,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# API数据获取\n\nAPI数据获取的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了API数据获取的核心知识。",
+    "knowledgePoints": [
+      "da-kp-168"
+    ]
   },
   {
     "id": "da-lesson-110",
@@ -2696,7 +3191,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# apply函数应用\n\napply函数应用的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了apply函数应用的核心知识。",
+    "knowledgePoints": [
+      "da-kp-169"
+    ]
   },
   {
     "id": "da-lesson-111",
@@ -2723,7 +3222,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据编码\n\n数据编码的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据编码的核心知识。",
+    "knowledgePoints": [
+      "da-kp-170"
+    ]
   },
   {
     "id": "da-lesson-112",
@@ -2750,7 +3253,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# plotly交互图表\n\nplotly交互图表的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了plotly交互图表的核心知识。",
+    "knowledgePoints": [
+      "da-kp-171"
+    ]
   },
   {
     "id": "da-lesson-113",
@@ -2777,7 +3284,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 方差分析\n\n方差分析的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了方差分析的核心知识。",
+    "knowledgePoints": [
+      "da-kp-172"
+    ]
   },
   {
     "id": "da-lesson-114",
@@ -2804,7 +3315,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 异动分析框架\n\n异动分析框架的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了异动分析框架的核心知识。",
+    "knowledgePoints": [
+      "da-kp-173"
+    ]
   },
   {
     "id": "da-lesson-115",
@@ -2825,7 +3340,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 购物篮分析\n\n购物篮分析的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了购物篮分析的核心知识。",
+    "knowledgePoints": [
+      "da-kp-174"
+    ]
   },
   {
     "id": "da-lesson-116",
@@ -2846,7 +3365,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# AA测试\n\nAA测试的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了AA测试的核心知识。",
+    "knowledgePoints": [
+      "da-kp-175"
+    ]
   },
   {
     "id": "da-lesson-117",
@@ -2873,7 +3396,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# SQL取数项目\n\nSQL取数项目的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了SQL取数项目的核心知识。",
+    "knowledgePoints": [
+      "da-kp-176"
+    ]
   },
   {
     "id": "da-lesson-118",
@@ -2894,7 +3421,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 薪资谈判\n\n薪资谈判的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了薪资谈判的核心知识。",
+    "knowledgePoints": [
+      "da-kp-177"
+    ]
   },
   {
     "id": "da-lesson-119",
@@ -2921,7 +3452,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据分析常见误区\n\n数据分析常见误区的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据分析常见误区的核心知识。",
+    "knowledgePoints": [
+      "da-kp-178"
+    ]
   },
   {
     "id": "da-lesson-120",
@@ -2948,7 +3483,11 @@
       "数据分析"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据分析报告模板\n\n数据分析报告模板的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据分析报告模板的核心知识。",
+    "knowledgePoints": [
+      "da-kp-179"
+    ]
   },
   {
     "id": "da-lesson-121",
@@ -2967,7 +3506,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#统计学与常用分析方法拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-122",
@@ -2986,7 +3527,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#指标体系与业务分析拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-123",
@@ -3005,7 +3548,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#用户分析、运营分析与产品分析拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-124",
@@ -3024,7 +3569,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#A/B 测试与实验分析拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-125",
@@ -3043,7 +3590,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据分析项目实战拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-126",
@@ -3062,7 +3611,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据分析师简历、作品集与面试拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-127",
@@ -3081,7 +3632,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据分析师岗位入门拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-128",
@@ -3100,7 +3653,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据分析思维与业务问题拆解拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-129",
@@ -3119,7 +3674,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#Excel 数据分析基础拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-130",
@@ -3138,7 +3695,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#SQL 查询与数据提取拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-131",
@@ -3157,7 +3716,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#Python 数据分析基础拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-132",
@@ -3176,7 +3737,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#pandas 数据处理拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-133",
@@ -3195,7 +3758,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据清洗与缺失值处理拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-134",
@@ -3214,7 +3779,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据可视化基础拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-135",
@@ -3233,7 +3800,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#统计学与常用分析方法拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-136",
@@ -3252,7 +3821,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#指标体系与业务分析拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-137",
@@ -3271,7 +3842,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#用户分析、运营分析与产品分析拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-138",
@@ -3290,7 +3863,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#A/B 测试与实验分析拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-139",
@@ -3309,7 +3884,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据分析项目实战拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-140",
@@ -3328,7 +3905,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据分析师简历、作品集与面试拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-141",
@@ -3347,7 +3926,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据分析师岗位入门拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-142",
@@ -3366,7 +3947,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据分析思维与业务问题拆解拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-143",
@@ -3385,7 +3968,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#Excel 数据分析基础拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-144",
@@ -3404,7 +3989,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#SQL 查询与数据提取拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-145",
@@ -3423,7 +4010,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#Python 数据分析基础拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-146",
@@ -3442,7 +4031,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#pandas 数据处理拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-147",
@@ -3461,7 +4052,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据清洗与缺失值处理拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-148",
@@ -3480,7 +4073,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据可视化基础拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-149",
@@ -3499,7 +4094,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#统计学与常用分析方法拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-150",
@@ -3518,7 +4115,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#指标体系与业务分析拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-151",
@@ -3537,7 +4136,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#用户分析、运营分析与产品分析拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-152",
@@ -3556,7 +4157,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#A/B 测试与实验分析拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-153",
@@ -3575,7 +4178,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据分析项目实战拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-154",
@@ -3594,7 +4199,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据分析师简历、作品集与面试拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-155",
@@ -3613,7 +4220,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据分析师岗位入门拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-156",
@@ -3632,7 +4241,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据分析思维与业务问题拆解拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-157",
@@ -3651,7 +4262,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#Excel 数据分析基础拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-158",
@@ -3670,7 +4283,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#SQL 查询与数据提取拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-159",
@@ -3689,7 +4304,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#Python 数据分析基础拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-160",
@@ -3708,7 +4325,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#pandas 数据处理拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-161",
@@ -3727,7 +4346,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据清洗与缺失值处理拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-162",
@@ -3746,7 +4367,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据可视化基础拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-163",
@@ -3765,7 +4388,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#统计学与常用分析方法拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-164",
@@ -3784,7 +4409,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#指标体系与业务分析拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-165",
@@ -3803,7 +4430,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#用户分析、运营分析与产品分析拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-166",
@@ -3822,7 +4451,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#A/B 测试与实验分析拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-167",
@@ -3841,7 +4472,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据分析项目实战拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-168",
@@ -3860,7 +4493,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据分析师简历、作品集与面试拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-169",
@@ -3879,7 +4514,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据分析师岗位入门拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-170",
@@ -3898,7 +4535,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据分析思维与业务问题拆解拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-171",
@@ -3917,7 +4556,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#Excel 数据分析基础拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-172",
@@ -3936,7 +4577,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#SQL 查询与数据提取拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-173",
@@ -3955,7 +4598,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#Python 数据分析基础拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-174",
@@ -3974,7 +4619,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#pandas 数据处理拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-175",
@@ -3993,7 +4640,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据清洗与缺失值处理拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-176",
@@ -4012,7 +4661,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#数据可视化基础拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-177",
@@ -4031,7 +4682,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#统计学与常用分析方法拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-178",
@@ -4050,7 +4703,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#指标体系与业务分析拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-179",
@@ -4069,7 +4724,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#用户分析、运营分析与产品分析拓展",
+    "knowledgePoints": []
   },
   {
     "id": "da-lesson-180",
@@ -4088,6 +4745,8 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#A/B 测试与实验分析拓展",
+    "knowledgePoints": []
   }
 ]

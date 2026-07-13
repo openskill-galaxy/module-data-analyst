@@ -32,7 +32,10 @@
     "tags": [
       "数据分析师岗位入门"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析师岗位入门测试",
+    "slug": "数据分析师岗位入门基础测试"
   },
   {
     "id": "da-exam-02",
@@ -67,7 +70,10 @@
     "tags": [
       "数据分析思维与业务问题拆解"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析思维与业务问题拆解测试",
+    "slug": "数据分析思维与业务问题拆解基础测试"
   },
   {
     "id": "da-exam-03",
@@ -102,7 +108,10 @@
     "tags": [
       "Excel数据分析基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "Excel数据分析基础测试",
+    "slug": "excel数据分析基础基础测试"
   },
   {
     "id": "da-exam-04",
@@ -137,7 +146,10 @@
     "tags": [
       "SQL查询与数据提取"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "SQL查询与数据提取测试",
+    "slug": "sql查询与数据提取基础测试"
   },
   {
     "id": "da-exam-05",
@@ -172,7 +184,10 @@
     "tags": [
       "Python数据分析基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "Python数据分析基础测试",
+    "slug": "python数据分析基础基础测试"
   },
   {
     "id": "da-exam-06",
@@ -207,7 +222,10 @@
     "tags": [
       "pandas数据处理"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "pandas数据处理测试",
+    "slug": "pandas数据处理基础测试"
   },
   {
     "id": "da-exam-07",
@@ -242,7 +260,10 @@
     "tags": [
       "数据清洗与缺失值处理"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据清洗与缺失值处理测试",
+    "slug": "数据清洗与缺失值处理基础测试"
   },
   {
     "id": "da-exam-08",
@@ -277,7 +298,10 @@
     "tags": [
       "数据可视化基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据可视化基础测试",
+    "slug": "数据可视化基础基础测试"
   },
   {
     "id": "da-exam-09",
@@ -312,7 +336,10 @@
     "tags": [
       "统计学与常用分析方法"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "统计学与常用分析方法测试",
+    "slug": "统计学与常用分析方法基础测试"
   },
   {
     "id": "da-exam-10",
@@ -347,7 +374,10 @@
     "tags": [
       "指标体系与业务分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "指标体系与业务分析测试",
+    "slug": "指标体系与业务分析基础测试"
   },
   {
     "id": "da-exam-11",
@@ -382,7 +412,10 @@
     "tags": [
       "用户分析运营分析与产品分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "用户分析运营分析与产品分析测试",
+    "slug": "用户分析运营分析与产品分析基础测试"
   },
   {
     "id": "da-exam-12",
@@ -417,7 +450,10 @@
     "tags": [
       "AB测试与实验分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "AB测试与实验分析测试",
+    "slug": "ab测试与实验分析基础测试"
   },
   {
     "id": "da-exam-13",
@@ -452,7 +488,10 @@
     "tags": [
       "数据分析项目实战"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析项目实战测试",
+    "slug": "数据分析项目实战基础测试"
   },
   {
     "id": "da-exam-14",
@@ -487,7 +526,10 @@
     "tags": [
       "数据分析师简历作品集与面试"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析师简历作品集与面试测试",
+    "slug": "数据分析师简历作品集与面试基础测试"
   },
   {
     "id": "da-exam-15",
@@ -522,7 +564,10 @@
     "tags": [
       "数据分析师岗位入门"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析师岗位入门测试",
+    "slug": "数据分析师岗位入门基础测试"
   },
   {
     "id": "da-exam-16",
@@ -557,7 +602,10 @@
     "tags": [
       "数据分析思维与业务问题拆解"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析思维与业务问题拆解测试",
+    "slug": "数据分析思维与业务问题拆解基础测试"
   },
   {
     "id": "da-exam-17",
@@ -592,7 +640,10 @@
     "tags": [
       "Excel数据分析基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "Excel数据分析基础测试",
+    "slug": "excel数据分析基础基础测试"
   },
   {
     "id": "da-exam-18",
@@ -627,7 +678,10 @@
     "tags": [
       "SQL查询与数据提取"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "SQL查询与数据提取测试",
+    "slug": "sql查询与数据提取基础测试"
   },
   {
     "id": "da-exam-19",
@@ -662,7 +716,10 @@
     "tags": [
       "Python数据分析基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "Python数据分析基础测试",
+    "slug": "python数据分析基础基础测试"
   },
   {
     "id": "da-exam-20",
@@ -697,7 +754,10 @@
     "tags": [
       "pandas数据处理"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "pandas数据处理测试",
+    "slug": "pandas数据处理基础测试"
   },
   {
     "id": "da-exam-21",
@@ -732,7 +792,10 @@
     "tags": [
       "数据清洗与缺失值处理"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据清洗与缺失值处理测试",
+    "slug": "数据清洗与缺失值处理基础测试"
   },
   {
     "id": "da-exam-22",
@@ -767,7 +830,10 @@
     "tags": [
       "数据可视化基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据可视化基础测试",
+    "slug": "数据可视化基础基础测试"
   },
   {
     "id": "da-exam-23",
@@ -802,7 +868,10 @@
     "tags": [
       "统计学与常用分析方法"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "统计学与常用分析方法测试",
+    "slug": "统计学与常用分析方法基础测试"
   },
   {
     "id": "da-exam-24",
@@ -837,7 +906,10 @@
     "tags": [
       "指标体系与业务分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "指标体系与业务分析测试",
+    "slug": "指标体系与业务分析基础测试"
   },
   {
     "id": "da-exam-25",
@@ -872,7 +944,10 @@
     "tags": [
       "用户分析运营分析与产品分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "用户分析运营分析与产品分析测试",
+    "slug": "用户分析运营分析与产品分析基础测试"
   },
   {
     "id": "da-exam-26",
@@ -907,7 +982,10 @@
     "tags": [
       "AB测试与实验分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "AB测试与实验分析测试",
+    "slug": "ab测试与实验分析基础测试"
   },
   {
     "id": "da-exam-27",
@@ -942,7 +1020,10 @@
     "tags": [
       "数据分析项目实战"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析项目实战测试",
+    "slug": "数据分析项目实战基础测试"
   },
   {
     "id": "da-exam-28",
@@ -977,7 +1058,10 @@
     "tags": [
       "数据分析师简历作品集与面试"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析师简历作品集与面试测试",
+    "slug": "数据分析师简历作品集与面试基础测试"
   },
   {
     "id": "da-exam-29",
@@ -1012,7 +1096,10 @@
     "tags": [
       "数据分析师岗位入门"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析师岗位入门测试",
+    "slug": "数据分析师岗位入门基础测试"
   },
   {
     "id": "da-exam-30",
@@ -1047,7 +1134,10 @@
     "tags": [
       "数据分析思维与业务问题拆解"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析思维与业务问题拆解测试",
+    "slug": "数据分析思维与业务问题拆解基础测试"
   },
   {
     "id": "da-exam-31",
@@ -1082,7 +1172,10 @@
     "tags": [
       "Excel数据分析基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "Excel数据分析基础测试",
+    "slug": "excel数据分析基础进阶测试"
   },
   {
     "id": "da-exam-32",
@@ -1117,7 +1210,10 @@
     "tags": [
       "SQL查询与数据提取"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "SQL查询与数据提取测试",
+    "slug": "sql查询与数据提取进阶测试"
   },
   {
     "id": "da-exam-33",
@@ -1152,7 +1248,10 @@
     "tags": [
       "Python数据分析基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "Python数据分析基础测试",
+    "slug": "python数据分析基础进阶测试"
   },
   {
     "id": "da-exam-34",
@@ -1187,7 +1286,10 @@
     "tags": [
       "pandas数据处理"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "pandas数据处理测试",
+    "slug": "pandas数据处理进阶测试"
   },
   {
     "id": "da-exam-35",
@@ -1222,7 +1324,10 @@
     "tags": [
       "数据清洗与缺失值处理"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据清洗与缺失值处理测试",
+    "slug": "数据清洗与缺失值处理进阶测试"
   },
   {
     "id": "da-exam-36",
@@ -1257,7 +1362,10 @@
     "tags": [
       "数据可视化基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据可视化基础测试",
+    "slug": "数据可视化基础进阶测试"
   },
   {
     "id": "da-exam-37",
@@ -1292,7 +1400,10 @@
     "tags": [
       "统计学与常用分析方法"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "统计学与常用分析方法测试",
+    "slug": "统计学与常用分析方法进阶测试"
   },
   {
     "id": "da-exam-38",
@@ -1327,7 +1438,10 @@
     "tags": [
       "指标体系与业务分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "指标体系与业务分析测试",
+    "slug": "指标体系与业务分析进阶测试"
   },
   {
     "id": "da-exam-39",
@@ -1362,7 +1476,10 @@
     "tags": [
       "用户分析运营分析与产品分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "用户分析运营分析与产品分析测试",
+    "slug": "用户分析运营分析与产品分析进阶测试"
   },
   {
     "id": "da-exam-40",
@@ -1397,7 +1514,10 @@
     "tags": [
       "AB测试与实验分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "AB测试与实验分析测试",
+    "slug": "ab测试与实验分析进阶测试"
   },
   {
     "id": "da-exam-41",
@@ -1432,7 +1552,10 @@
     "tags": [
       "数据分析项目实战"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析项目实战测试",
+    "slug": "数据分析项目实战进阶测试"
   },
   {
     "id": "da-exam-42",
@@ -1467,7 +1590,10 @@
     "tags": [
       "数据分析师简历作品集与面试"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析师简历作品集与面试测试",
+    "slug": "数据分析师简历作品集与面试进阶测试"
   },
   {
     "id": "da-exam-43",
@@ -1502,7 +1628,10 @@
     "tags": [
       "数据分析师岗位入门"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析师岗位入门测试",
+    "slug": "数据分析师岗位入门进阶测试"
   },
   {
     "id": "da-exam-44",
@@ -1537,7 +1666,10 @@
     "tags": [
       "数据分析思维与业务问题拆解"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析思维与业务问题拆解测试",
+    "slug": "数据分析思维与业务问题拆解进阶测试"
   },
   {
     "id": "da-exam-45",
@@ -1572,7 +1704,10 @@
     "tags": [
       "Excel数据分析基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "Excel数据分析基础测试",
+    "slug": "excel数据分析基础进阶测试"
   },
   {
     "id": "da-exam-46",
@@ -1607,7 +1742,10 @@
     "tags": [
       "SQL查询与数据提取"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "SQL查询与数据提取测试",
+    "slug": "sql查询与数据提取进阶测试"
   },
   {
     "id": "da-exam-47",
@@ -1642,7 +1780,10 @@
     "tags": [
       "Python数据分析基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "Python数据分析基础测试",
+    "slug": "python数据分析基础进阶测试"
   },
   {
     "id": "da-exam-48",
@@ -1677,7 +1818,10 @@
     "tags": [
       "pandas数据处理"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "pandas数据处理测试",
+    "slug": "pandas数据处理进阶测试"
   },
   {
     "id": "da-exam-49",
@@ -1712,7 +1856,10 @@
     "tags": [
       "数据清洗与缺失值处理"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据清洗与缺失值处理测试",
+    "slug": "数据清洗与缺失值处理进阶测试"
   },
   {
     "id": "da-exam-50",
@@ -1747,7 +1894,10 @@
     "tags": [
       "数据可视化基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据可视化基础测试",
+    "slug": "数据可视化基础进阶测试"
   },
   {
     "id": "da-exam-51",
@@ -1782,7 +1932,10 @@
     "tags": [
       "统计学与常用分析方法"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "统计学与常用分析方法测试",
+    "slug": "统计学与常用分析方法进阶测试"
   },
   {
     "id": "da-exam-52",
@@ -1817,7 +1970,10 @@
     "tags": [
       "指标体系与业务分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "指标体系与业务分析测试",
+    "slug": "指标体系与业务分析进阶测试"
   },
   {
     "id": "da-exam-53",
@@ -1852,7 +2008,10 @@
     "tags": [
       "用户分析运营分析与产品分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "用户分析运营分析与产品分析测试",
+    "slug": "用户分析运营分析与产品分析进阶测试"
   },
   {
     "id": "da-exam-54",
@@ -1887,7 +2046,10 @@
     "tags": [
       "AB测试与实验分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "AB测试与实验分析测试",
+    "slug": "ab测试与实验分析进阶测试"
   },
   {
     "id": "da-exam-55",
@@ -1922,7 +2084,10 @@
     "tags": [
       "数据分析项目实战"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析项目实战测试",
+    "slug": "数据分析项目实战进阶测试"
   },
   {
     "id": "da-exam-56",
@@ -1957,7 +2122,10 @@
     "tags": [
       "数据分析师简历作品集与面试"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析师简历作品集与面试测试",
+    "slug": "数据分析师简历作品集与面试进阶测试"
   },
   {
     "id": "da-exam-57",
@@ -1992,7 +2160,10 @@
     "tags": [
       "数据分析师岗位入门"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析师岗位入门测试",
+    "slug": "数据分析师岗位入门进阶测试"
   },
   {
     "id": "da-exam-58",
@@ -2027,7 +2198,10 @@
     "tags": [
       "数据分析思维与业务问题拆解"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "数据分析思维与业务问题拆解测试",
+    "slug": "数据分析思维与业务问题拆解进阶测试"
   },
   {
     "id": "da-exam-59",
@@ -2062,7 +2236,10 @@
     "tags": [
       "Excel数据分析基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "Excel数据分析基础测试",
+    "slug": "excel数据分析基础进阶测试"
   },
   {
     "id": "da-exam-60",
@@ -2097,7 +2274,10 @@
     "tags": [
       "SQL查询与数据提取"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 45,
+    "summary": "SQL查询与数据提取测试",
+    "slug": "sql查询与数据提取进阶测试"
   },
   {
     "id": "da-exam-61",
@@ -2132,7 +2312,10 @@
     "tags": [
       "Python数据分析基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Python数据分析基础测试",
+    "slug": "python数据分析基础挑战测试"
   },
   {
     "id": "da-exam-62",
@@ -2167,7 +2350,10 @@
     "tags": [
       "pandas数据处理"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "pandas数据处理测试",
+    "slug": "pandas数据处理挑战测试"
   },
   {
     "id": "da-exam-63",
@@ -2202,7 +2388,10 @@
     "tags": [
       "数据清洗与缺失值处理"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据清洗与缺失值处理测试",
+    "slug": "数据清洗与缺失值处理挑战测试"
   },
   {
     "id": "da-exam-64",
@@ -2237,7 +2426,10 @@
     "tags": [
       "数据可视化基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据可视化基础测试",
+    "slug": "数据可视化基础挑战测试"
   },
   {
     "id": "da-exam-65",
@@ -2272,7 +2464,10 @@
     "tags": [
       "统计学与常用分析方法"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "统计学与常用分析方法测试",
+    "slug": "统计学与常用分析方法挑战测试"
   },
   {
     "id": "da-exam-66",
@@ -2307,7 +2502,10 @@
     "tags": [
       "指标体系与业务分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "指标体系与业务分析测试",
+    "slug": "指标体系与业务分析挑战测试"
   },
   {
     "id": "da-exam-67",
@@ -2342,7 +2540,10 @@
     "tags": [
       "用户分析运营分析与产品分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "用户分析运营分析与产品分析测试",
+    "slug": "用户分析运营分析与产品分析挑战测试"
   },
   {
     "id": "da-exam-68",
@@ -2377,7 +2578,10 @@
     "tags": [
       "AB测试与实验分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AB测试与实验分析测试",
+    "slug": "ab测试与实验分析挑战测试"
   },
   {
     "id": "da-exam-69",
@@ -2412,7 +2616,10 @@
     "tags": [
       "数据分析项目实战"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据分析项目实战测试",
+    "slug": "数据分析项目实战挑战测试"
   },
   {
     "id": "da-exam-70",
@@ -2447,7 +2654,10 @@
     "tags": [
       "数据分析师简历作品集与面试"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据分析师简历作品集与面试测试",
+    "slug": "数据分析师简历作品集与面试挑战测试"
   },
   {
     "id": "da-exam-71",
@@ -2482,7 +2692,10 @@
     "tags": [
       "数据分析师岗位入门"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据分析师岗位入门测试",
+    "slug": "数据分析师岗位入门挑战测试"
   },
   {
     "id": "da-exam-72",
@@ -2517,7 +2730,10 @@
     "tags": [
       "数据分析思维与业务问题拆解"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据分析思维与业务问题拆解测试",
+    "slug": "数据分析思维与业务问题拆解挑战测试"
   },
   {
     "id": "da-exam-73",
@@ -2552,7 +2768,10 @@
     "tags": [
       "Excel数据分析基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Excel数据分析基础测试",
+    "slug": "excel数据分析基础挑战测试"
   },
   {
     "id": "da-exam-74",
@@ -2587,7 +2806,10 @@
     "tags": [
       "SQL查询与数据提取"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SQL查询与数据提取测试",
+    "slug": "sql查询与数据提取挑战测试"
   },
   {
     "id": "da-exam-75",
@@ -2622,7 +2844,10 @@
     "tags": [
       "Python数据分析基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Python数据分析基础测试",
+    "slug": "python数据分析基础挑战测试"
   },
   {
     "id": "da-exam-76",
@@ -2657,7 +2882,10 @@
     "tags": [
       "pandas数据处理"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "pandas数据处理测试",
+    "slug": "pandas数据处理挑战测试"
   },
   {
     "id": "da-exam-77",
@@ -2692,7 +2920,10 @@
     "tags": [
       "数据清洗与缺失值处理"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据清洗与缺失值处理测试",
+    "slug": "数据清洗与缺失值处理挑战测试"
   },
   {
     "id": "da-exam-78",
@@ -2727,7 +2958,10 @@
     "tags": [
       "数据可视化基础"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据可视化基础测试",
+    "slug": "数据可视化基础挑战测试"
   },
   {
     "id": "da-exam-79",
@@ -2762,7 +2996,10 @@
     "tags": [
       "统计学与常用分析方法"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "统计学与常用分析方法测试",
+    "slug": "统计学与常用分析方法挑战测试"
   },
   {
     "id": "da-exam-80",
@@ -2797,7 +3034,10 @@
     "tags": [
       "指标体系与业务分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "指标体系与业务分析测试",
+    "slug": "指标体系与业务分析挑战测试"
   },
   {
     "id": "da-exam-81",
@@ -2832,7 +3072,10 @@
     "tags": [
       "用户分析运营分析与产品分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "用户分析运营分析与产品分析测试",
+    "slug": "用户分析运营分析与产品分析挑战测试"
   },
   {
     "id": "da-exam-82",
@@ -2867,7 +3110,10 @@
     "tags": [
       "AB测试与实验分析"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AB测试与实验分析测试",
+    "slug": "ab测试与实验分析挑战测试"
   },
   {
     "id": "da-exam-83",
@@ -2902,7 +3148,10 @@
     "tags": [
       "数据分析项目实战"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据分析项目实战测试",
+    "slug": "数据分析项目实战挑战测试"
   },
   {
     "id": "da-exam-84",
@@ -2937,7 +3186,10 @@
     "tags": [
       "数据分析师简历作品集与面试"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据分析师简历作品集与面试测试",
+    "slug": "数据分析师简历作品集与面试挑战测试"
   },
   {
     "id": "da-exam-85",
@@ -2972,7 +3224,10 @@
     "tags": [
       "数据分析师岗位入门"
     ],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据分析师岗位入门测试",
+    "slug": "数据分析师岗位入门挑战测试"
   },
   {
     "id": "da-exam-86",
@@ -2985,7 +3240,11 @@
     "tags": [
       "X"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合测试86",
+    "description": "综合测试86",
+    "slug": "综合测试86"
   },
   {
     "id": "da-exam-87",
@@ -2998,7 +3257,11 @@
     "tags": [
       "X"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合测试87",
+    "description": "综合测试87",
+    "slug": "综合测试87"
   },
   {
     "id": "da-exam-88",
@@ -3011,7 +3274,11 @@
     "tags": [
       "X"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合测试88",
+    "description": "综合测试88",
+    "slug": "综合测试88"
   },
   {
     "id": "da-exam-89",
@@ -3024,7 +3291,11 @@
     "tags": [
       "X"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合测试89",
+    "description": "综合测试89",
+    "slug": "综合测试89"
   },
   {
     "id": "da-exam-90",
@@ -3037,7 +3308,11 @@
     "tags": [
       "X"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合测试90",
+    "description": "综合测试90",
+    "slug": "综合测试90"
   },
   {
     "id": "da-exam-91",
@@ -3050,7 +3325,11 @@
     "tags": [
       "X"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合测试91",
+    "description": "综合测试91",
+    "slug": "综合测试91"
   },
   {
     "id": "da-exam-92",
@@ -3063,7 +3342,11 @@
     "tags": [
       "X"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合测试92",
+    "description": "综合测试92",
+    "slug": "综合测试92"
   },
   {
     "id": "da-exam-93",
@@ -3076,7 +3359,11 @@
     "tags": [
       "X"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合测试93",
+    "description": "综合测试93",
+    "slug": "综合测试93"
   },
   {
     "id": "da-exam-94",
@@ -3089,7 +3376,11 @@
     "tags": [
       "X"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合测试94",
+    "description": "综合测试94",
+    "slug": "综合测试94"
   },
   {
     "id": "da-exam-95",
@@ -3102,7 +3393,11 @@
     "tags": [
       "X"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合测试95",
+    "description": "综合测试95",
+    "slug": "综合测试95"
   },
   {
     "id": "da-exam-96",
@@ -3115,7 +3410,11 @@
     "tags": [
       "X"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合测试96",
+    "description": "综合测试96",
+    "slug": "综合测试96"
   },
   {
     "id": "da-exam-97",
@@ -3128,7 +3427,11 @@
     "tags": [
       "X"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合测试97",
+    "description": "综合测试97",
+    "slug": "综合测试97"
   },
   {
     "id": "da-exam-98",
@@ -3141,7 +3444,11 @@
     "tags": [
       "X"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合测试98",
+    "description": "综合测试98",
+    "slug": "综合测试98"
   },
   {
     "id": "da-exam-99",
@@ -3154,7 +3461,11 @@
     "tags": [
       "X"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合测试99",
+    "description": "综合测试99",
+    "slug": "综合测试99"
   },
   {
     "id": "da-exam-100",
@@ -3167,6 +3478,10 @@
     "tags": [
       "X"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "综合测试100",
+    "description": "综合测试100",
+    "slug": "综合测试100"
   }
 ]
