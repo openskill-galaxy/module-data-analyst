@@ -1,620 +1,71 @@
 [
   {
-    "id": "da-course-01",
+    "id": "mod-data-analyst-c-1",
+    "title": "数据分析师训练 架构原理与初始化",
+    "slug": "course-1",
+    "summary": "深度探索 数据分析师训练 的设计理念、运行架构以及初始化配置引导。",
     "order": 1,
-    "slug": "数据分析师岗位入门",
-    "title": "数据分析师岗位入门",
-    "description": "了解数据分析师做什么、数据分析流程、岗位分类与技能树。",
-    "estimatedHours": 4,
     "difficulty": "easy",
-    "tags": [
-      "数据分析师岗位入门"
-    ],
-    "lessonIds": [
-      "da-lesson-001",
-      "da-lesson-002",
-      "da-lesson-003",
-      "da-lesson-004",
-      "da-lesson-005",
-      "da-lesson-006",
-      "da-lesson-007",
-      "da-lesson-091",
-      "da-lesson-105",
-      "da-lesson-119"
-    ],
-    "totalLessons": 10,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握核心概念",
-      "能独立完成项目",
-      "理解最佳实践",
-      "具备工程能力"
-    ],
-    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "estimatedHours": 54,
     "lessons": [
-      "da-lesson-001",
-      "da-lesson-002",
-      "da-lesson-003",
-      "da-lesson-004",
-      "da-lesson-005",
-      "da-lesson-006",
-      "da-lesson-007",
-      "da-lesson-091",
-      "da-lesson-105",
-      "da-lesson-119"
+      "mod-data-analyst-l-1",
+      "mod-data-analyst-l-2"
     ],
-    "summary": "了解数据分析师做什么、数据分析流程、岗位分类与技能树。"
+    "tags": [
+      "数据分析",
+      "SQL",
+      "Python",
+      "pandas",
+      "Excel",
+      "可视化",
+      "业务分析",
+      "面试"
+    ]
   },
   {
-    "id": "da-course-02",
+    "id": "mod-data-analyst-c-2",
+    "title": "数据分析师训练 核心机制与开发实战",
+    "slug": "course-2",
+    "summary": "掌握 数据分析师训练 的核心组件、API 接口调用以及本地开发调试。",
     "order": 2,
-    "slug": "数据分析思维与业务问题拆解",
-    "title": "数据分析思维与业务问题拆解",
-    "description": "学习结构化思维、指标定义、问题拆解、业务理解。",
-    "estimatedHours": 8,
     "difficulty": "easy",
-    "tags": [
-      "数据分析思维与业务问题拆解"
-    ],
-    "lessonIds": [
-      "da-lesson-008",
-      "da-lesson-009",
-      "da-lesson-010",
-      "da-lesson-011",
-      "da-lesson-012",
-      "da-lesson-013",
-      "da-lesson-092",
-      "da-lesson-106",
-      "da-lesson-120"
-    ],
-    "totalLessons": 9,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握核心概念",
-      "能独立完成项目",
-      "理解最佳实践",
-      "具备工程能力"
-    ],
-    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "estimatedHours": 54,
     "lessons": [
-      "da-lesson-008",
-      "da-lesson-009",
-      "da-lesson-010",
-      "da-lesson-011",
-      "da-lesson-012",
-      "da-lesson-013",
-      "da-lesson-092",
-      "da-lesson-106",
-      "da-lesson-120"
+      "mod-data-analyst-l-3",
+      "mod-data-analyst-l-4"
     ],
-    "summary": "学习结构化思维、指标定义、问题拆解、业务理解。"
+    "tags": [
+      "数据分析",
+      "SQL",
+      "Python",
+      "pandas",
+      "Excel",
+      "可视化",
+      "业务分析",
+      "面试"
+    ]
   },
   {
-    "id": "da-course-03",
+    "id": "mod-data-analyst-c-3",
+    "title": "数据分析师训练 高级优化与生产部署",
+    "slug": "course-3",
+    "summary": "学习如何进行系统性能监控调优、高可用集群部署与数据存储。",
     "order": 3,
-    "slug": "Excel数据分析基础",
-    "title": "Excel 数据分析基础",
-    "description": "Excel数据透视表、常用函数、VLOOKUP、条件格式、图表。",
-    "estimatedHours": 10,
     "difficulty": "easy",
-    "tags": [
-      "Excel 数据分析基础"
-    ],
-    "lessonIds": [
-      "da-lesson-014",
-      "da-lesson-015",
-      "da-lesson-016",
-      "da-lesson-017",
-      "da-lesson-018",
-      "da-lesson-019",
-      "da-lesson-093",
-      "da-lesson-107"
-    ],
-    "totalLessons": 8,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握核心概念",
-      "能独立完成项目",
-      "理解最佳实践",
-      "具备工程能力"
-    ],
-    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "estimatedHours": 54,
     "lessons": [
-      "da-lesson-014",
-      "da-lesson-015",
-      "da-lesson-016",
-      "da-lesson-017",
-      "da-lesson-018",
-      "da-lesson-019",
-      "da-lesson-093",
-      "da-lesson-107"
+      "mod-data-analyst-l-5",
+      "mod-data-analyst-l-6"
     ],
-    "summary": "Excel数据透视表、常用函数、VLOOKUP、条件格式、图表。"
-  },
-  {
-    "id": "da-course-04",
-    "order": 4,
-    "slug": "SQL查询与数据提取",
-    "title": "SQL 查询与数据提取",
-    "description": "SELECT、WHERE、GROUP BY、JOIN、子查询、窗口函数。",
-    "estimatedHours": 14,
-    "difficulty": "easy",
     "tags": [
-      "SQL 查询与数据提取"
-    ],
-    "lessonIds": [
-      "da-lesson-020",
-      "da-lesson-021",
-      "da-lesson-022",
-      "da-lesson-023",
-      "da-lesson-024",
-      "da-lesson-025",
-      "da-lesson-026",
-      "da-lesson-027",
-      "da-lesson-094",
-      "da-lesson-108"
-    ],
-    "totalLessons": 10,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握核心概念",
-      "能独立完成项目",
-      "理解最佳实践",
-      "具备工程能力"
-    ],
-    "updatedAt": "2026-07-01T00:00:00.000Z",
-    "lessons": [
-      "da-lesson-020",
-      "da-lesson-021",
-      "da-lesson-022",
-      "da-lesson-023",
-      "da-lesson-024",
-      "da-lesson-025",
-      "da-lesson-026",
-      "da-lesson-027",
-      "da-lesson-094",
-      "da-lesson-108"
-    ],
-    "summary": "SELECT、WHERE、GROUP BY、JOIN、子查询、窗口函数。"
-  },
-  {
-    "id": "da-course-05",
-    "order": 5,
-    "slug": "Python数据分析基础",
-    "title": "Python 数据分析基础",
-    "description": "Python基础回顾、NumPy数组、读写CSV/Excel/JSON。",
-    "estimatedHours": 12,
-    "difficulty": "medium",
-    "tags": [
-      "Python 数据分析基础"
-    ],
-    "lessonIds": [
-      "da-lesson-028",
-      "da-lesson-029",
-      "da-lesson-030",
-      "da-lesson-031",
-      "da-lesson-032",
-      "da-lesson-095",
-      "da-lesson-109"
-    ],
-    "totalLessons": 7,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握核心概念",
-      "能独立完成项目",
-      "理解最佳实践",
-      "具备工程能力"
-    ],
-    "updatedAt": "2026-07-01T00:00:00.000Z",
-    "lessons": [
-      "da-lesson-028",
-      "da-lesson-029",
-      "da-lesson-030",
-      "da-lesson-031",
-      "da-lesson-032",
-      "da-lesson-095",
-      "da-lesson-109"
-    ],
-    "summary": "Python基础回顾、NumPy数组、读写CSV/Excel/JSON。"
-  },
-  {
-    "id": "da-course-06",
-    "order": 6,
-    "slug": "pandas数据处理",
-    "title": "pandas 数据处理",
-    "description": "Series/DataFrame、筛选、排序、分组聚合、数据透视表。",
-    "estimatedHours": 14,
-    "difficulty": "medium",
-    "tags": [
-      "pandas 数据处理"
-    ],
-    "lessonIds": [
-      "da-lesson-033",
-      "da-lesson-034",
-      "da-lesson-035",
-      "da-lesson-036",
-      "da-lesson-037",
-      "da-lesson-038",
-      "da-lesson-039",
-      "da-lesson-040",
-      "da-lesson-096",
-      "da-lesson-110"
-    ],
-    "totalLessons": 10,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握核心概念",
-      "能独立完成项目",
-      "理解最佳实践",
-      "具备工程能力"
-    ],
-    "updatedAt": "2026-07-01T00:00:00.000Z",
-    "lessons": [
-      "da-lesson-033",
-      "da-lesson-034",
-      "da-lesson-035",
-      "da-lesson-036",
-      "da-lesson-037",
-      "da-lesson-038",
-      "da-lesson-039",
-      "da-lesson-040",
-      "da-lesson-096",
-      "da-lesson-110"
-    ],
-    "summary": "Series/DataFrame、筛选、排序、分组聚合、数据透视表。"
-  },
-  {
-    "id": "da-course-07",
-    "order": 7,
-    "slug": "数据清洗与缺失值处理",
-    "title": "数据清洗与缺失值处理",
-    "description": "缺失值处理、异常值处理、重复值、数据类型转换。",
-    "estimatedHours": 10,
-    "difficulty": "medium",
-    "tags": [
-      "数据清洗与缺失值处理"
-    ],
-    "lessonIds": [
-      "da-lesson-041",
-      "da-lesson-042",
-      "da-lesson-043",
-      "da-lesson-044",
-      "da-lesson-045",
-      "da-lesson-046",
-      "da-lesson-047",
-      "da-lesson-097",
-      "da-lesson-111"
-    ],
-    "totalLessons": 9,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握核心概念",
-      "能独立完成项目",
-      "理解最佳实践",
-      "具备工程能力"
-    ],
-    "updatedAt": "2026-07-01T00:00:00.000Z",
-    "lessons": [
-      "da-lesson-041",
-      "da-lesson-042",
-      "da-lesson-043",
-      "da-lesson-044",
-      "da-lesson-045",
-      "da-lesson-046",
-      "da-lesson-047",
-      "da-lesson-097",
-      "da-lesson-111"
-    ],
-    "summary": "缺失值处理、异常值处理、重复值、数据类型转换。"
-  },
-  {
-    "id": "da-course-08",
-    "order": 8,
-    "slug": "数据可视化基础",
-    "title": "数据可视化基础",
-    "description": "matplotlib/seaborn图表：折线图、柱状图、饼图、散点图、热力图。",
-    "estimatedHours": 10,
-    "difficulty": "medium",
-    "tags": [
-      "数据可视化基础"
-    ],
-    "lessonIds": [
-      "da-lesson-048",
-      "da-lesson-049",
-      "da-lesson-050",
-      "da-lesson-051",
-      "da-lesson-052",
-      "da-lesson-053",
-      "da-lesson-054",
-      "da-lesson-055",
-      "da-lesson-098",
-      "da-lesson-112"
-    ],
-    "totalLessons": 10,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握核心概念",
-      "能独立完成项目",
-      "理解最佳实践",
-      "具备工程能力"
-    ],
-    "updatedAt": "2026-07-01T00:00:00.000Z",
-    "lessons": [
-      "da-lesson-048",
-      "da-lesson-049",
-      "da-lesson-050",
-      "da-lesson-051",
-      "da-lesson-052",
-      "da-lesson-053",
-      "da-lesson-054",
-      "da-lesson-055",
-      "da-lesson-098",
-      "da-lesson-112"
-    ],
-    "summary": "matplotlib/seaborn图表：折线图、柱状图、饼图、散点图、热力图。"
-  },
-  {
-    "id": "da-course-09",
-    "order": 9,
-    "slug": "统计学与常用分析方法",
-    "title": "统计学与常用分析方法",
-    "description": "描述统计、相关性、假设检验、回归分析基础。",
-    "estimatedHours": 12,
-    "difficulty": "medium",
-    "tags": [
-      "统计学与常用分析方法"
-    ],
-    "lessonIds": [
-      "da-lesson-056",
-      "da-lesson-057",
-      "da-lesson-058",
-      "da-lesson-059",
-      "da-lesson-060",
-      "da-lesson-061",
-      "da-lesson-062",
-      "da-lesson-099",
-      "da-lesson-113"
-    ],
-    "totalLessons": 9,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握核心概念",
-      "能独立完成项目",
-      "理解最佳实践",
-      "具备工程能力"
-    ],
-    "updatedAt": "2026-07-01T00:00:00.000Z",
-    "lessons": [
-      "da-lesson-056",
-      "da-lesson-057",
-      "da-lesson-058",
-      "da-lesson-059",
-      "da-lesson-060",
-      "da-lesson-061",
-      "da-lesson-062",
-      "da-lesson-099",
-      "da-lesson-113"
-    ],
-    "summary": "描述统计、相关性、假设检验、回归分析基础。"
-  },
-  {
-    "id": "da-course-10",
-    "order": 10,
-    "slug": "指标体系与业务分析",
-    "title": "指标体系与业务分析",
-    "description": "KPI、转化率、留存率、复购率、漏斗分析、用户分层。",
-    "estimatedHours": 12,
-    "difficulty": "hard",
-    "tags": [
-      "指标体系与业务分析"
-    ],
-    "lessonIds": [
-      "da-lesson-063",
-      "da-lesson-064",
-      "da-lesson-065",
-      "da-lesson-066",
-      "da-lesson-067",
-      "da-lesson-068",
-      "da-lesson-100",
-      "da-lesson-114"
-    ],
-    "totalLessons": 8,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握核心概念",
-      "能独立完成项目",
-      "理解最佳实践",
-      "具备工程能力"
-    ],
-    "updatedAt": "2026-07-01T00:00:00.000Z",
-    "lessons": [
-      "da-lesson-063",
-      "da-lesson-064",
-      "da-lesson-065",
-      "da-lesson-066",
-      "da-lesson-067",
-      "da-lesson-068",
-      "da-lesson-100",
-      "da-lesson-114"
-    ],
-    "summary": "KPI、转化率、留存率、复购率、漏斗分析、用户分层。"
-  },
-  {
-    "id": "da-course-11",
-    "order": 11,
-    "slug": "用户分析运营分析与产品分析",
-    "title": "用户分析、运营分析与产品分析",
-    "description": "RFM模型、Cohort分析、用户生命周期、行为分析。",
-    "estimatedHours": 10,
-    "difficulty": "hard",
-    "tags": [
-      "用户分析、运营分析与产品分析"
-    ],
-    "lessonIds": [
-      "da-lesson-069",
-      "da-lesson-070",
-      "da-lesson-071",
-      "da-lesson-072",
-      "da-lesson-073",
-      "da-lesson-074",
-      "da-lesson-101",
-      "da-lesson-115"
-    ],
-    "totalLessons": 8,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握核心概念",
-      "能独立完成项目",
-      "理解最佳实践",
-      "具备工程能力"
-    ],
-    "updatedAt": "2026-07-01T00:00:00.000Z",
-    "lessons": [
-      "da-lesson-069",
-      "da-lesson-070",
-      "da-lesson-071",
-      "da-lesson-072",
-      "da-lesson-073",
-      "da-lesson-074",
-      "da-lesson-101",
-      "da-lesson-115"
-    ],
-    "summary": "RFM模型、Cohort分析、用户生命周期、行为分析。"
-  },
-  {
-    "id": "da-course-12",
-    "order": 12,
-    "slug": "AB测试与实验分析",
-    "title": "A/B 测试与实验分析",
-    "description": "A/B测试设计、假设检验、统计功效、结果解读。",
-    "estimatedHours": 8,
-    "difficulty": "hard",
-    "tags": [
-      "A/B 测试与实验分析"
-    ],
-    "lessonIds": [
-      "da-lesson-075",
-      "da-lesson-076",
-      "da-lesson-077",
-      "da-lesson-078",
-      "da-lesson-079",
-      "da-lesson-102",
-      "da-lesson-116"
-    ],
-    "totalLessons": 7,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握核心概念",
-      "能独立完成项目",
-      "理解最佳实践",
-      "具备工程能力"
-    ],
-    "updatedAt": "2026-07-01T00:00:00.000Z",
-    "lessons": [
-      "da-lesson-075",
-      "da-lesson-076",
-      "da-lesson-077",
-      "da-lesson-078",
-      "da-lesson-079",
-      "da-lesson-102",
-      "da-lesson-116"
-    ],
-    "summary": "A/B测试设计、假设检验、统计功效、结果解读。"
-  },
-  {
-    "id": "da-course-13",
-    "order": 13,
-    "slug": "数据分析项目实战",
-    "title": "数据分析项目实战",
-    "description": "电商分析、用户增长、活动效果、看板设计等完整项目。",
-    "estimatedHours": 16,
-    "difficulty": "hard",
-    "tags": [
-      "数据分析项目实战"
-    ],
-    "lessonIds": [
-      "da-lesson-080",
-      "da-lesson-081",
-      "da-lesson-082",
-      "da-lesson-083",
-      "da-lesson-084",
-      "da-lesson-103",
-      "da-lesson-117"
-    ],
-    "totalLessons": 7,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握核心概念",
-      "能独立完成项目",
-      "理解最佳实践",
-      "具备工程能力"
-    ],
-    "updatedAt": "2026-07-01T00:00:00.000Z",
-    "lessons": [
-      "da-lesson-080",
-      "da-lesson-081",
-      "da-lesson-082",
-      "da-lesson-083",
-      "da-lesson-084",
-      "da-lesson-103",
-      "da-lesson-117"
-    ],
-    "summary": "电商分析、用户增长、活动效果、看板设计等完整项目。"
-  },
-  {
-    "id": "da-course-14",
-    "order": 14,
-    "slug": "数据分析师简历作品集与面试",
-    "title": "数据分析师简历、作品集与面试",
-    "description": "简历优化、作品集搭建、面试准备、案例分析。",
-    "estimatedHours": 10,
-    "difficulty": "hard",
-    "tags": [
-      "数据分析师简历、作品集与面试"
-    ],
-    "lessonIds": [
-      "da-lesson-085",
-      "da-lesson-086",
-      "da-lesson-087",
-      "da-lesson-088",
-      "da-lesson-089",
-      "da-lesson-090",
-      "da-lesson-104",
-      "da-lesson-118"
-    ],
-    "totalLessons": 8,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "掌握核心概念",
-      "能独立完成项目",
-      "理解最佳实践",
-      "具备工程能力"
-    ],
-    "updatedAt": "2026-07-01T00:00:00.000Z",
-    "lessons": [
-      "da-lesson-085",
-      "da-lesson-086",
-      "da-lesson-087",
-      "da-lesson-088",
-      "da-lesson-089",
-      "da-lesson-090",
-      "da-lesson-104",
-      "da-lesson-118"
-    ],
-    "summary": "简历优化、作品集搭建、面试准备、案例分析。"
+      "数据分析",
+      "SQL",
+      "Python",
+      "pandas",
+      "Excel",
+      "可视化",
+      "业务分析",
+      "面试"
+    ]
   }
 ]
